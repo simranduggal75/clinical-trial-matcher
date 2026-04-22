@@ -66,11 +66,14 @@ venv.bak/
 .DS_Store
 Thumbs.db
 
+
 # Data
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+data/raw/**
+!data/raw/**/
+!data/raw/**/.gitkeep
+data/processed/**
+!data/processed/**/
+!data/processed/**/.gitkeep
 output/
 
 # Models
