@@ -1,1 +1,17 @@
- 
+data:
+  raw_trials: data/raw/trials/trials_raw.json
+  raw_patients: data/raw/patients
+  processed_trials: data/processed/trials_clean.json
+  processed_patients: data/processed/patients_clean.json
+  ner_dataset: data/processed/ner_dataset
+
+model:
+  name: emilyalsentzer/Bio_ClinicalBERT
+  max_length: 256
+  batch_size: 16
+  epochs: 3
+  output_dir: src/models/ner_model
+
+api:
+  host: 0.0.0.0
+  port: 8000 
