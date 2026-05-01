@@ -75,9 +75,11 @@ data/processed/**
 !data/processed/**/
 !data/processed/**/.gitkeep
 output/
-
+data/annotations/
 # Models
 src/models/ner_model/
+
+
 
 
 setup.py
