@@ -77,8 +77,7 @@ data/processed/**
 output/
 
 # Models
-src/models/*
-!src/models/.gitkeep
+src/models/ner_model/
 
 
 setup.py
