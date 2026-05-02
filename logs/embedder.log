@@ -1,0 +1,86 @@
+2026-05-02 23:21:02 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-02 23:21:26 | embedder | INFO | Model loaded on cpu
+2026-05-02 23:21:27 | embedder | INFO | Embedded batch 1/1
+2026-05-02 23:35:09 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-02 23:35:16 | embedder | INFO | Model loaded on cpu
+2026-05-02 23:35:25 | embedder | INFO | Embedded batch 1/32
+2026-05-02 23:35:37 | embedder | INFO | Embedded batch 2/32
+2026-05-02 23:36:02 | embedder | INFO | Embedded batch 3/32
+2026-05-02 23:36:16 | embedder | INFO | Embedded batch 4/32
+2026-05-02 23:36:25 | embedder | INFO | Embedded batch 5/32
+2026-05-02 23:36:49 | embedder | INFO | Embedded batch 6/32
+2026-05-02 23:37:02 | embedder | INFO | Embedded batch 7/32
+2026-05-02 23:37:30 | embedder | INFO | Embedded batch 8/32
+2026-05-02 23:37:43 | embedder | INFO | Embedded batch 9/32
+2026-05-02 23:38:02 | embedder | INFO | Embedded batch 10/32
+2026-05-02 23:38:11 | embedder | INFO | Embedded batch 11/32
+2026-05-02 23:38:34 | embedder | INFO | Embedded batch 12/32
+2026-05-02 23:39:03 | embedder | INFO | Embedded batch 13/32
+2026-05-02 23:39:47 | embedder | INFO | Embedded batch 14/32
+2026-05-02 23:40:06 | embedder | INFO | Embedded batch 15/32
+2026-05-02 23:40:34 | embedder | INFO | Embedded batch 16/32
+2026-05-02 23:41:39 | embedder | INFO | Embedded batch 17/32
+2026-05-02 23:42:06 | embedder | INFO | Embedded batch 18/32
+2026-05-02 23:42:31 | embedder | INFO | Embedded batch 19/32
+2026-05-02 23:42:51 | embedder | INFO | Embedded batch 20/32
+2026-05-02 23:43:15 | embedder | INFO | Embedded batch 21/32
+2026-05-02 23:44:07 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-02 23:44:16 | embedder | INFO | Model loaded on cpu
+2026-05-02 23:44:36 | embedder | INFO | Embedded batch 1/32
+2026-05-02 23:45:10 | embedder | INFO | Embedded batch 2/32
+2026-05-02 23:45:57 | embedder | INFO | Embedded batch 3/32
+2026-05-02 23:46:15 | embedder | INFO | Embedded batch 4/32
+2026-05-02 23:46:36 | embedder | INFO | Embedded batch 5/32
+2026-05-02 23:47:05 | embedder | INFO | Embedded batch 6/32
+2026-05-02 23:47:45 | embedder | INFO | Embedded batch 7/32
+2026-05-02 23:48:39 | embedder | INFO | Embedded batch 8/32
+2026-05-02 23:48:55 | embedder | INFO | Embedded batch 9/32
+2026-05-02 23:49:08 | embedder | INFO | Embedded batch 10/32
+2026-05-02 23:49:20 | embedder | INFO | Embedded batch 11/32
+2026-05-02 23:49:37 | embedder | INFO | Embedded batch 12/32
+2026-05-02 23:49:52 | embedder | INFO | Embedded batch 13/32
+2026-05-02 23:50:08 | embedder | INFO | Embedded batch 14/32
+2026-05-02 23:50:21 | embedder | INFO | Embedded batch 15/32
+2026-05-03 00:05:58 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-03 00:06:07 | embedder | INFO | Model loaded on cpu
+2026-05-03 00:06:31 | embedder | INFO | Embedded batch 1/32
+2026-05-03 00:06:49 | embedder | INFO | Embedded batch 2/32
+2026-05-03 00:07:35 | embedder | INFO | Embedded batch 3/32
+2026-05-03 00:07:51 | embedder | INFO | Embedded batch 4/32
+2026-05-03 00:08:05 | embedder | INFO | Embedded batch 5/32
+2026-05-03 00:08:24 | embedder | INFO | Embedded batch 6/32
+2026-05-03 00:08:36 | embedder | INFO | Embedded batch 7/32
+2026-05-03 00:08:50 | embedder | INFO | Embedded batch 8/32
+2026-05-03 00:08:56 | embedder | INFO | Embedded batch 9/32
+2026-05-03 00:09:05 | embedder | INFO | Embedded batch 10/32
+2026-05-03 00:09:11 | embedder | INFO | Embedded batch 11/32
+2026-05-03 00:09:21 | embedder | INFO | Embedded batch 12/32
+2026-05-03 00:09:30 | embedder | INFO | Embedded batch 13/32
+2026-05-03 00:09:40 | embedder | INFO | Embedded batch 14/32
+2026-05-03 00:09:49 | embedder | INFO | Embedded batch 15/32
+2026-05-03 00:09:58 | embedder | INFO | Embedded batch 16/32
+2026-05-03 00:10:13 | embedder | INFO | Embedded batch 17/32
+2026-05-03 00:10:20 | embedder | INFO | Embedded batch 18/32
+2026-05-03 00:10:31 | embedder | INFO | Embedded batch 19/32
+2026-05-03 00:10:44 | embedder | INFO | Embedded batch 20/32
+2026-05-03 00:10:55 | embedder | INFO | Embedded batch 21/32
+2026-05-03 00:11:05 | embedder | INFO | Embedded batch 22/32
+2026-05-03 00:11:14 | embedder | INFO | Embedded batch 23/32
+2026-05-03 00:11:23 | embedder | INFO | Embedded batch 24/32
+2026-05-03 00:11:31 | embedder | INFO | Embedded batch 25/32
+2026-05-03 00:11:46 | embedder | INFO | Embedded batch 26/32
+2026-05-03 00:11:55 | embedder | INFO | Embedded batch 27/32
+2026-05-03 00:12:05 | embedder | INFO | Embedded batch 28/32
+2026-05-03 00:12:13 | embedder | INFO | Embedded batch 29/32
+2026-05-03 00:12:23 | embedder | INFO | Embedded batch 30/32
+2026-05-03 00:12:38 | embedder | INFO | Embedded batch 31/32
+2026-05-03 00:12:40 | embedder | INFO | Embedded batch 32/32
+2026-05-03 00:13:33 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-03 00:13:39 | embedder | INFO | Model loaded on cpu
+2026-05-03 00:13:40 | embedder | INFO | Embedded batch 1/1
+2026-05-03 00:18:26 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-03 00:18:34 | embedder | INFO | Model loaded on cpu
+2026-05-03 00:18:35 | embedder | INFO | Embedded batch 1/1
+2026-05-03 00:18:35 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-03 00:18:40 | embedder | INFO | Model loaded on cpu
+2026-05-03 00:18:40 | embedder | INFO | Embedded batch 1/1
