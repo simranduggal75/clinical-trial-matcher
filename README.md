@@ -1,43 +1,74 @@
 # Clinical Trial Matching System
 
-An AI system that automatically matches patient medical records to relevant clinical trials using advanced NLP techniques.
+An AI system that automatically matches patient medical records to relevant clinical trials using Bio_ClinicalBERT and FAISS vector search.
 
 ## Overview
 
-This project aims to build a production-ready system for matching de-identified patient records (EHR snippets) to clinical trials from ClinicalTrials.gov. The system uses:
+This project builds a production-ready system for matching de-identified patient EHR records to clinical trials from ClinicalTrials.gov using:
 
-- Fine-tuned ClinicalBERT models for medical named entity recognition (NER) and trial eligibility embedding.
-- A vector store (FAISS) for efficient similarity search.
-- A hybrid matching approach: rule-based filtering followed by neural re-ranking.
-- A FastAPI service for deployment, with monitoring and evaluation components.
+- **Bio_ClinicalBERT** for medical named entity recognition (NER) and semantic embeddings
+- **FAISS** vector index for fast similarity search over 500+ trials
+- **Rule-based filtering** for age, sex, and trial status pre-filtering
+- **FastAPI** service for deployment (in progress)
+- **Synthea** for synthetic EHR patient data generation
+
+## What's Built So Far
+
+| Phase | Status | Description |
+|-------|--------|-------------|
+| Data Collection | ✅ Done | 500+ trials from ClinicalTrials.gov, 100+ synthetic patients via Synthea |
+| Preprocessing | ✅ Done | Structured trial eligibility, patient profiles |
+| NER Pipeline | ✅ Done | Auto-labeled EHR snippets, HuggingFace token-classification format |
+| FAISS Index | ✅ Done | Bio_ClinicalBERT embeddings, semantic search returning top-K trials |
+| FastAPI Service | 🔄 In Progress | |
+| Streamlit Demo | 🔄 In Progress | |
+| Docker Deployment | 🔄 In Progress | |
 
 ## Directory Structure
 
 ```
 clinical-trial-matcher/
 ├── data/
-│   ├── raw/              # Raw data downloaded from sources
-│   └── processed/        # Cleaned and processed data
+│   ├── raw/              # Raw downloaded data (gitignored)
+│   ├── processed/        # Cleaned trials, patient profiles, FAISS index
+│   └── annotations/      # NER labeled EHR snippets
 ├── src/
-│   ├── data/             # Data loading and preprocessing scripts
-│   ├── models/           # Model training and fine-tuning scripts
-│   ├── matching/         # Matching engine logic
-│   ├── api/              # FastAPI application
-│   └── utils/            # Utility functions
+│   ├── data/             # Download, preprocess, NER pipeline scripts
+│   ├── models/           # Bio_ClinicalBERT NER training
+│   ├── matching/         # Embedder, FAISS index builder, search
+│   ├── api/              # FastAPI application (in progress)
+│   └── utils/            # Logger, config, text cleaner, age parser, filters
 ├── tests/                # Unit and integration tests
-└── README.md
+├── notebooks/            # Exploratory analysis
+└── configs/              # YAML configuration
 ```
 
-## Getting Started
+## Quick Start
 
-1. Clone the repository.
-2. Install dependencies (see `requirements.txt` or `environment.yml`).
-3. Download the data (see `src/data/download.py`).
-4. Preprocess the data (see `src/data/preprocess.py`).
-5. Train/fine-tune models (see `src/models/`).
-6. Build the matching engine (see `src/matching/`).
-7. Run the API service (see `src/api/`).
-8. Evaluate the system (see `tests/`).
+```bash
+git clone https://github.com/simranduggal75/clinical-trial-matcher.git
+cd clinical-trial-matcher
+pip install -r requirements.txt
+
+# Fetch trials
+python src/data/download_trials.py
+
+# Generate synthetic patients
+python src/data/generate_patients.py
+
+# Preprocess
+python src/data/preprocess.py
+
+# Build FAISS index
+python src/matching/build_index.py
+
+# Search
+python src/matching/search.py
+```
+
+## Tech Stack
+
+`Python` `HuggingFace Transformers` `Bio_ClinicalBERT` `FAISS` `FastAPI` `Synthea` `scikit-learn` `PyTorch`
 
 ## License
 
