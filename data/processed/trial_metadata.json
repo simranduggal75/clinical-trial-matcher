@@ -1,0 +1,5677 @@
+[
+  {
+    "nct_id": "NCT06052826",
+    "title": "Geriatric Assessment Guided Interventions to Accelerate Functional Recovery After CAR-T Therapy for Patients 60 Years and Older With B-cell Non-Hodgkin Lymphoma or Multiple Myeloma, GOCART Study",
+    "conditions": [
+      "B-Cell Non-Hodgkin Lymphoma",
+      "Multiple Myeloma"
+    ],
+    "min_age": "60 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06500676",
+    "title": "A Study of GFH375 in Patients With Advanced Solid Tumors With KRAS G12D Mutations",
+    "conditions": [
+      "KRAS G12D Mutations",
+      "Advanced Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06802991",
+    "title": "Optimised Post-discharge Care in Older Patients After Surgery for Colon Cancer (ERAS 3.0)",
+    "conditions": [
+      "Colon Cancer",
+      "Frailty"
+    ],
+    "min_age": "65 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07218510",
+    "title": "Venetoclax and Obinutuzumab Followed by Epcoritamab for the Treatment of Untreated Chronic Lymphocytic Leukemia and Small Lymphocytic Lymphoma, LonGEVity Trial",
+    "conditions": [
+      "Chronic Lymphocytic Leukemia",
+      "Small Lymphocytic Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06514313",
+    "title": "Clinical Trial of VIM With VIT in Children With Relapsed and Refractory Soft Tissue Sarcoma.",
+    "conditions": [
+      "Soft Tissue Sarcoma"
+    ],
+    "min_age": "2 Years",
+    "max_age": "21 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06760923",
+    "title": "Urinary Proteomic Assessment of Ovarian Malignancy and Disease Progression",
+    "conditions": [
+      "Ovarian Cancer (OvCa)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07167446",
+    "title": "Neuroprotective Potential of Cannabidiol (CBD) in Preventing Oxaliplatin (Ox)-Induced Neuropathy",
+    "conditions": [
+      "Oxaliplatin Induced Peripheral Neuropathy in Cancer Patients",
+      "Metastatic Colorectal Cancer (CRC)",
+      "Peripheral Neuropathy Due to Chemotherapy"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04063527",
+    "title": "Phase III Trial of Stage I Ovarian Cancer After Surgery",
+    "conditions": [
+      "Epithelial Ovarian Cancer"
+    ],
+    "min_age": "20 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05000827",
+    "title": "Dutch National Randomized Study: PSMA-PET/CT As a Triage Tool for Pelvic Lymph Node Dissection in Prostatectomy Patients",
+    "conditions": [
+      "Prostate Cancer Metastatic",
+      "Prostate Cancer",
+      "Lymph Node Metastases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05979961",
+    "title": "Phase III Trial of Concurrent Chemotherapy Alone in Patients With Low-risk Nasopharyngeal Carcinoma",
+    "conditions": [
+      "Nasopharyngeal Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07352761",
+    "title": "Bilateral Uterine Artery Occlusion During Laparoscopic Myomectomy",
+    "conditions": [
+      "Uterine Fibroids (Leiomyoma)",
+      "Myomectomy",
+      "Myomectomy; Surgical Blood Loss"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05243797",
+    "title": "Phase 3 Study of Teclistamab in Combination With Lenalidomide and Teclistamab Alone Versus Lenalidomide Alone in Participants With Newly Diagnosed Multiple Myeloma as Maintenance Therapy Following Autologous Stem Cell Transplantation",
+    "conditions": [
+      "Multiple Myeloma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06636682",
+    "title": "FK-PC101 as Adjuvant Therapy for Men With High-Risk Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer (Adenocarcinoma)",
+      "Prostate CA",
+      "Prostate Cancers",
+      "Prostate Cancer (Post Prostatectomy)",
+      "Prostate Cancer",
+      "Prostate Cancer Patients Undergoing Radical Prostatectomy",
+      "High-risk Prostate Cancer"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06083324",
+    "title": "EXErcise Regimen Designed to Improve Functional Mobility, Body Composition, and Strength After Treatment for Cancer",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "20 Years",
+    "max_age": "89 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03941080",
+    "title": "Gut Microbiome Dynamics in Metastasized or Irresectable Colorectal Cancer",
+    "conditions": [
+      "Colorectal Cancer Metastatic"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06954480",
+    "title": "Investigating Datopotamab Deruxtecan Plus Durvalumab Versus Datopotamab Deruxtecan in Patients With PDL1-negative Metastatic Triple-negative Breast Cancer",
+    "conditions": [
+      "Triple Negative Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06386146",
+    "title": "JAB-30355 in Patients With Advanced Solid Tumors Harboring TP53 Y220C Mutation",
+    "conditions": [
+      "Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07540403",
+    "title": "Survival Analysis in patiEnts With Bad Prognosis Epithelial Ovarian CArcinoma",
+    "conditions": [
+      "Ovarian Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05641961",
+    "title": "Mobile App to Help Survivors of Childhood Cancer Navigate Long-Term Follow-Up Care",
+    "conditions": [
+      "Childhood Cancer",
+      "Hematopoietic and Lymphoid Cell Neoplasm",
+      "Malignant Solid Neoplasm"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06289270",
+    "title": "Microbiota in Urine and Urothelium Can be a Factor for Induction of Urinary Bladder Cancer. The Study Will Examine Urine and Bladder Tissues From Egyptian Male Patients and Controls Using Whole Genomic Sequencing Techniques and 16S rRNA. The Aim is to Elucidate Role of Microbiota in Bladder Cancer.",
+    "conditions": [
+      "Microbiota in Patients With Urinary Bladder Carcinoma in Urine and Cancer Tissues"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05660473",
+    "title": "Pediatric-inspired Regimen Combined With Venetoclax for Adolescent and Adult Patients With de Novo Philadelphia Chromosome-Negative Acute Lymphoblastic Leukemia",
+    "conditions": [
+      "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+    ],
+    "min_age": "14 Years",
+    "max_age": "60 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05876676",
+    "title": "RDC Biomarker Study",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT00026650",
+    "title": "Evaluation of Late Effects and Natural History of Disease in Patients Treated With Radiotherapy",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06325891",
+    "title": "Microbiota in Gastric Cancer by Gastric Mucosal Brushing",
+    "conditions": [
+      "Gastric Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05921318",
+    "title": "Beijing Protocol in Patients Receiving More Than 5/10 HLA-mismatched Allo-HSCT",
+    "conditions": [
+      "Hematologic Malignancy",
+      "Stem Cell Transplant Complications"
+    ],
+    "min_age": "",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06288113",
+    "title": "Re-treatment With 177Lu-PSMA-617 for the Treatment of Metastatic Castration-Resistant Prostate Cancer, RE-LuPSMA Trial",
+    "conditions": [
+      "Castration-Resistant Prostate Carcinoma",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05934513",
+    "title": "A Study of GFH009 Monotherapy in Patients with Relapsed or Refractory Peripheral T-cell Lymphoma (PTCL)",
+    "conditions": [
+      "Relapsed or Refractory Peripheral T-cell Lymphoma (PTCL)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06967480",
+    "title": "Early Ravulizumab Treatment Of Anti- AChR Antibody-Positive Generalized Myasthenia Gravis",
+    "conditions": [
+      "Generalized Myasthenia Gravis",
+      "Anti-AChR Antibody Positive"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05060796",
+    "title": "Study of CXCR5 Modified EGFR Targeted CAR-T Cells for Advanced NSCLC",
+    "conditions": [
+      "Non Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07038096",
+    "title": "ZG006 and ZG005 in Participants With Small Cell Lung Cancer or Neuroendocrine Carcinoma",
+    "conditions": [
+      "Small Cell Lung Cancer",
+      "Neuroendocrine Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06322888",
+    "title": "Resistance and Aerobic Exercise for Prevention in Women With Dense Breasts (REP-D)",
+    "conditions": [
+      "Breast Cancer",
+      "Breast Cancer Female"
+    ],
+    "min_age": "18 Years",
+    "max_age": "59 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07003061",
+    "title": "Sarcopenia and Neuromuscular Block in Gastrointestinal Cancer Surgery",
+    "conditions": [
+      "Gastrointestinal Cancer",
+      "Sarcopenia",
+      "Neuromuscular Blockade"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03138161",
+    "title": "SAINT:Trabectedin, Ipilimumab and Nivolumab for Previously Treated Advanced Soft Tissue Sarcoma",
+    "conditions": [
+      "Advanced Soft Tissue Sarcoma",
+      "Metastatic Soft Tissue Sarcoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07260370",
+    "title": "The Difference of microRNA and Circulating Tumor Cells in Blood Among Cancer Patients With Immunotherapy",
+    "conditions": [
+      "microRNA",
+      "Circulating Tumor Cells",
+      "Immunotherapy"
+    ],
+    "min_age": "20 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07201038",
+    "title": "Ultrafast Whole Genome Sequencing for Childhood Cancer",
+    "conditions": [
+      "Cancer Childhood"
+    ],
+    "min_age": "0 Years",
+    "max_age": "24 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03293758",
+    "title": "Food and Microbiome Longitudinal Investigation (FAMiLI)",
+    "conditions": [
+      "Cancer",
+      "Cardiovascular Diseases"
+    ],
+    "min_age": "40 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04751435",
+    "title": "Developing New Educational Materials About Genetic Testing for a Diverse Group of Cancer Patients",
+    "conditions": [
+      "Educational Materials for Genetic Testing",
+      "Breast Cancer",
+      "Ovarian Cancer",
+      "Prostate Cancer",
+      "Pancreatic Cancer",
+      "Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07146074",
+    "title": "Early Radiotherapy Versus Observation for High-risk Asymptomatic or Minimally Symptomatic Bone Metastases",
+    "conditions": [
+      "Solid Neoplasms",
+      "Bone Metastases",
+      "Asymptomatic or Minimally Symptomatic",
+      "High Risk for Skeletal Events"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04897490",
+    "title": "RWE of 1st Line Treatment With ATO/ATRA for Adult APL",
+    "conditions": [
+      "Promyelocytic Leukemia, Adult Acute"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06160310",
+    "title": "Tuberous Sclerosis Complex and Lymphangioleiomyomatosis Pregnancy Registry (TSC-LAM Registry)",
+    "conditions": [
+      "Tuberous Sclerosis Complex",
+      "Lymphangioleiomyomatosis"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04870762",
+    "title": "Customized 3D Printed Oral Stents During Head and Neck Radiotherapy",
+    "conditions": [
+      "Head and Neck Carcinoma",
+      "Malignant Parotid Gland Neoplasm",
+      "Maxillary Sinus Carcinoma",
+      "Nasal Cavity Carcinoma",
+      "Oral Cavity Carcinoma",
+      "Tongue Carcinoma",
+      "Tonsillar Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06940388",
+    "title": "Total Neoadjuvant Treatment With or Without Tislelizumab for Locally Advanced Rectal Cancer.",
+    "conditions": [
+      "Locally Advanced Rectal Cancer (LARC)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06432985",
+    "title": "Smoking Cessation CM for Veterans With or at Risk for Cancer",
+    "conditions": [
+      "Tobacco Use Disorder",
+      "Substance Use Disorder"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06953089",
+    "title": "DB-1311 in Combination With BNT327 or DB-1305 in Advanced/Metastatic Solid Tumors",
+    "conditions": [
+      "Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04216524",
+    "title": "Venetoclax, SL-401, and Chemotherapy for the Treatment of Blastic Plasmacytoid Dendritic Cell Neoplasm",
+    "conditions": [
+      "Blastic Plasmacytoid Dendritic Cell Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06141226",
+    "title": "Phase II Clinical Trial to Evaluate the Safety and Efficacy of TQB2450 Injection Combined With Anlotinib Capsule and Chemotherapy in the Treatment of Immunoresistant Advanced Non-small Cell Lung Cancer",
+    "conditions": [
+      "Non-small-cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04199026",
+    "title": "Implantable Microdevice for the Delivery of Drugs and Their Effect on Tumors in Patients With Metastatic or Recurrent Sarcoma",
+    "conditions": [
+      "Metastatic Sarcoma",
+      "Recurrent Sarcoma",
+      "Resectable Sarcoma"
+    ],
+    "min_age": "10 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06440135",
+    "title": "Ziftomenib Maintenance Post Allo-HCT",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "Acute Myeloid Leukemia in Remission",
+      "NPM1 Mutation",
+      "KMT2A Rearrangement"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06314568",
+    "title": "Radiochemotherapy and Interventional Radiotherapy in Vaginal Cancer",
+    "conditions": [
+      "Vaginal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05395962",
+    "title": "Electrochemotherapy With Carboplatinum Plus Bleomycin Versus Bleomycin Alone in Vulvar Cancer",
+    "conditions": [
+      "Vulvar Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04452162",
+    "title": "Physiologic MR Imaging of Salivary Gland Tumors",
+    "conditions": [
+      "Salivary Gland Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05494086",
+    "title": "Dual-Port Laparoscopic Distal Gastrectomy for Gastric Cancer",
+    "conditions": [
+      "Gastric Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04821778",
+    "title": "Chemoradiotherapy in Esophageal or Esophagogastric Junction Cancer",
+    "conditions": [
+      "Esophagus Cancer",
+      "Esophagogastric Junction Cancer",
+      "Chemoradiation",
+      "Targeted Therapy",
+      "Immunotherapy",
+      "Chemotherapy Effect"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05562778",
+    "title": "Chatbot to Maximize Hereditary Cancer Genetic Risk Assessment",
+    "conditions": [
+      "Gynecologic Cancer",
+      "Hereditary Cancer Syndrome"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07441785",
+    "title": "Immediate and Functional Results of Different Types of Reconstructions After Proximal Gastrectomy For Gastric and Esophagogastric Junction Cancer",
+    "conditions": [
+      "Gastric Cancer (GC)",
+      "Siewert Type III Adenocarcinoma of Esophagogastric Junction",
+      "Siewert Type II Adenocarcinoma of Esophagogastric Junction"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06422143",
+    "title": "Pembrolizumab With or Without Maintenance Sacituzumab Tirumotecan (Sac-TMT; MK-2870) in Metastatic Squamous Non-small Cell Lung Cancer (NSCLC) [MK-2870-023]",
+    "conditions": [
+      "Non-small Cell Lung Cancer",
+      "NSCLC"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06979674",
+    "title": "Study of ESG406 in Adults With Solid Tumors",
+    "conditions": [
+      "Locally Advanced/Metastatic Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05023018",
+    "title": "NEO100 and High-Grade Meningioma",
+    "conditions": [
+      "Residual, Progressive or Recurrent Grade II or III Meningioma"
+    ],
+    "min_age": "12 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06484790",
+    "title": "T Cell Receptor Gene-Engineered T Cell Therapy Targeting KRAS Mutations in the Treatment of Subjects With Advanced Solid Tumor",
+    "conditions": [
+      "Tumor, Solid"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05984797",
+    "title": "Integrated Short-Term Palliative Rehabilitation in Incurable Cancer",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06055959",
+    "title": "A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Generalized Myasthenia Gravis",
+    "conditions": [
+      "Generalized Myasthenia Gravis"
+    ],
+    "min_age": "12 Years",
+    "max_age": "17 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07270679",
+    "title": "Genetic Markers of Susceptibility to Chemotherapy-induced Ovarian Damage in Cancer Patients Undergoing Ovarian Biopsy for Cryopreservation.",
+    "conditions": [
+      "Breast Cancer",
+      "Hodgkin Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "38 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07287748",
+    "title": "A Phase I Trial of Af-001 in Patients With Differentiated Thyroid Cancer",
+    "conditions": [
+      "DTC - Differentiated Thyroid Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05715255",
+    "title": "Adaptive Symptom Self-Management Immunotherapy Study",
+    "conditions": [
+      "Breast Cancer",
+      "Colon Cancer",
+      "Lung Cancer",
+      "Skin Cancer",
+      "Rectum Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06528743",
+    "title": "Feasibility of Primer Shot Radiotherapy for Non-small Cell Lung Cancer - PRIMER",
+    "conditions": [
+      "Patients With Non-small-cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05530343",
+    "title": "Seattle Biopsy Protocol Versus Wide-Area Transepithelial Sampling in Patients With Barrett's Esophagus Undergoing Surveillance",
+    "conditions": [
+      "Barrett Esophagus",
+      "Barretts Esophagus With Dysplasia",
+      "Esophageal Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "89 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06355076",
+    "title": "New Urethral Reconstruction in Robot-assisted Laparoscopic Radical Resection",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05356117",
+    "title": "Resistance Exercise Combined With Protein Supplementation in People With Pancreatic Cancer: The RE-BUILD Trial",
+    "conditions": [
+      "Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT00912717",
+    "title": "Pancreatic Adenocarcinoma Gene Environment Risk Study",
+    "conditions": [
+      "Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05412589",
+    "title": "mFOLFOX7 Plus Camrelizumab and Apatinib for Advanced HCC",
+    "conditions": [
+      "Stage III Hepatocellular Cancer (CNLC Staging)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06236568",
+    "title": "Impact of Graft Reconditioning With Hypothermic Machine Perfusion on HCC Recurrence After Liver Transplantation",
+    "conditions": [
+      "Hepatocellular Carcinoma",
+      "Liver Transplant; Complications"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02582697",
+    "title": "Accelerated v's Standard BEP Chemotherapy for Patients With Intermediate and Poor-risk Metastatic Germ Cell Tumours",
+    "conditions": [
+      "Germ Cell Tumor"
+    ],
+    "min_age": "11 Years",
+    "max_age": "50 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06929910",
+    "title": "Assessing Systemic Treatment and ctDNA Monitoring Efficacy in Metastatic Cancer Patients Using K4Care Testing.",
+    "conditions": [
+      "Metastatic Cancers"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06383520",
+    "title": "Study on the Clinical Application Value of PET Imaging Targeting GPC3 in Hepatocellular Carcinoma",
+    "conditions": [
+      "Malignant Neoplasm of Liver"
+    ],
+    "min_age": "18 Years",
+    "max_age": "65 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06384482",
+    "title": "SNC115 Injections in Patients With Recurrent/Refractory Small Cell Lung Cancer and Lung Large Cell Neuroendocrine Carcinoma",
+    "conditions": [
+      "Recurrent/Refractory Small Cell Lung Cancer Lung Large Cell Neuroendocrine Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04625023",
+    "title": "A Master Protocol Empowering Mechanobiology Translation Research in Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06830759",
+    "title": "Real-World Study to Assess Subcutaneous Epcoritamab in Adult Participants With Diffuse Large B-Cell and Follicular Lymphoma",
+    "conditions": [
+      "Diffuse Large B-cell Lymphoma",
+      "Follicular Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06161779",
+    "title": "Submental Flap for the Reconstruction of Hypopharyngectomy",
+    "conditions": [
+      "Head and Neck Cancers - Hypopharyngeal"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05665738",
+    "title": "Two-fraction HDR Monotherapy for Localized Prostate Cancer",
+    "conditions": [
+      "Prostate Adenocarcinoma",
+      "Localized Prostate Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06649474",
+    "title": "Evaluation, in Humans, of the Correlation Between Hepatotoxicity, Neurotoxicity Induced by Oxaliplatin, and Blood Levels of HMGB1",
+    "conditions": [
+      "Pancreatic Cancer",
+      "Resectable Pancreatic Adenocarcinoma",
+      "Adenocarcinoma",
+      "Resectable Esophageal Cancer",
+      "Resectable Gastric or Gastroesophageal Junction Adenocarcinoma",
+      "Oesophagogastric Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07164313",
+    "title": "A Study of ZW251 in Participants With Advanced Solid Tumors",
+    "conditions": [
+      "Hepatocellular Carcinoma",
+      "Squamous Cell Non-Small Cell Lung Cancer",
+      "Germ Cell Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06959082",
+    "title": "Efficacy and Safety Evaluation of VS-101 in Combination With Chemoradiotherapy in Patients With Head and Neck Cancer",
+    "conditions": [
+      "Head and Neck Cancer Squamous Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06814496",
+    "title": "Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors",
+    "conditions": [
+      "Melanoma",
+      "Medullary Thyroid Cancer",
+      "Sinonasal Undifferentiated Carcinoma",
+      "Esthesioneuroblastoma",
+      "Bladder Cancer",
+      "Testicular Cancer",
+      "Glioblastoma Multiforme",
+      "Cervical Cancer",
+      "Large Cell Neuroendocrine Carcinoma of the Lung",
+      "Non Small Cell Lung Cancer",
+      "Merkel Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07461948",
+    "title": "Advanced Imaging Techniques for Evaluating the Tumor Immune Microenvironment in Glioblastoma Patients",
+    "conditions": [
+      "Glioblastoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03678025",
+    "title": "Standard Systemic Therapy With or Without Definitive Treatment in Treating Participants With Metastatic Prostate Cancer",
+    "conditions": [
+      "Castration Levels of Testosterone",
+      "Metastatic Prostatic Adenocarcinoma",
+      "Stage IV Prostate Cancer AJCC v8",
+      "Stage IVA Prostate Cancer AJCC v8",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06204991",
+    "title": "To Evaluate the Safety and Efficacy of ADP-TILIL7 in Patients With Locally Advanced or Metastatic Melanoma",
+    "conditions": [
+      "Melanoma Stage III",
+      "Melanoma Stage IV",
+      "Melanoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06997497",
+    "title": "A Clinical Study of Calderasib (MK-1084) With Targeted Therapy and Chemotherapy in People With Colorectal Cancer (MK-1084-012/KANDLELIT-012)",
+    "conditions": [
+      "Colon Adenocarcinoma",
+      "Rectal Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06560697",
+    "title": "Cervical Boost by Ablative Stereotactic Radiotherapy (SABR) vs Brachytherapy in Patients With Cervical Carcinoma",
+    "conditions": [
+      "Uterine Cervical Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06192797",
+    "title": "Combined HAIC, Lenvatinib and Pucotenlimab As Conversion Therapy for Unresectable Intrahepatic Cholangiocarcinoma",
+    "conditions": [
+      "Cholangiocarcinoma Non-resectable"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05127824",
+    "title": "Autologous Dendritic Cell Vaccine in Kidney Cancer",
+    "conditions": [
+      "Carcinoma, Renal Cell"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06855823",
+    "title": "A Phase I/II Study of Golidocitinib Combined with Pomalidomide in R/R PTCL",
+    "conditions": [
+      "Relapsed/Refractory Peripheral T-Cell Lymphoma (R/R PTCL)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05800223",
+    "title": "Armatinib Alone or in Combination With SRT for Brain Metastases EGFR-mutated Non-small Cell Lung Cancer",
+    "conditions": [
+      "Non-small Cell Lung Cancer Metastatic"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06884670",
+    "title": "Assessment of Efficacy and Safety of PD-1 Monoclonal Antibody Combined With IL-2 and CapeOX in Neoadjuvant Therapy for Locally Advanced Rectal Cancer Prior to Surgery: A Prospective, Multi-center, Randomized Controlled Study",
+    "conditions": [
+      "Rectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06030622",
+    "title": "Phase 2A Pilot C3 Trial of Recurrent/Refractory Metastatic Advanced Pancreatic Cancer",
+    "conditions": [
+      "Pancreatic Cancer Metastatic"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04529629",
+    "title": "Precise Diagnosis, Treatment and Prognostic Evaluation of Complicated Adrenal Tumor Diseases",
+    "conditions": [
+      "Complicated Adrenal Tumor Diseases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06902545",
+    "title": "A Study to Observe the Safety of VYLOY (Zolbetuximab) in People in South Korea With Gastric or Gastroesophageal Junction Cancer.",
+    "conditions": [
+      "Locally Advanced Unresectable Gastroesophageal Junction (GEJ) Adenocarcinoma or Cancer",
+      "Locally Advanced Unresectable Gastric Adenocarcinoma or Cancer",
+      "Metastatic Gastric Adenocarcinoma or Cancer",
+      "Metastatic Gastroesophageal Junction (GEJ) Adenocarcinoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04608357",
+    "title": "Integrated Patient Avatars for Guiding Systemic Therapy Treatments in Metastatic Breast Cancer Patients",
+    "conditions": [
+      "Breast Cancer",
+      "Breast Neoplasms",
+      "Metastatic Breast Cancer",
+      "Cancer, Breast"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07451912",
+    "title": "Venetoclax Plus Hypomethylating Agents and Subcutaneous Cytarabine for CEBPA-Mutated AML",
+    "conditions": [
+      "Acute Myeloid Leukemia (AML)",
+      "CEBPA Mutation",
+      "Unfit, New-diagnosis AML"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06055465",
+    "title": "Neoadjuvant Sacituzumab Govitecan Plus Pembrolizumab in Resectable Non-Small Cell Lung Cancer",
+    "conditions": [
+      "Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05623267",
+    "title": "Sugemalimab as Consolidation Therapy in Patients With LS-SCLC Following cCRT or sCRT",
+    "conditions": [
+      "Limited Stage Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02647827",
+    "title": "Acupuncture or Metformin for Insulin Resistance in Women With PCOS",
+    "conditions": [
+      "Polycystic Ovary Syndrome",
+      "Insulin Resistance",
+      "Hyperandrogenism"
+    ],
+    "min_age": "18 Years",
+    "max_age": "40 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06520683",
+    "title": "Adjuvant PD-1 Blockade for High-risk Stage-II DMMR/MSI-H Colorectal Cancer",
+    "conditions": [
+      "Colorectal Cancer",
+      "Microsatellite Instability High"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05197894",
+    "title": "Virtual Reality for Improving Symptoms in Palliative Care",
+    "conditions": [
+      "Cancer and Non-cancer Hospice Patients"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06153251",
+    "title": "A Study to Assess BMS-986453 in Participants With Relapsed and/or Refractory Multiple Myeloma",
+    "conditions": [
+      "Relapsed and/or Refractory Multiple Myeloma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06125795",
+    "title": "A Study to Assess Change in Functioning and Health Related Quality of Life in Adult Participants With Chronic Lymphocytic Leukemia (CLL) Receiving Oral Treatments in Routine Clinical Practice in Spain",
+    "conditions": [
+      "Chronic Lymphocytic Leukemia"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04814095",
+    "title": "PRecision Oncology Evidence Development in Cancer Treatment - Clinical: PREDiCTc",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05917301",
+    "title": "Pre-operative Hypofractionated Proton Therapy",
+    "conditions": [
+      "Soft Tissue Sarcoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06845319",
+    "title": "Anthracycline-Free Neoadjuvant Chemoimmunotherapy for Triple Negative Breast Cancer Patients",
+    "conditions": [
+      "Triple Negative Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07235930",
+    "title": "Firstline Sequential AG and mFOLFOX Combined With Serplulimab and Bevacizumab Versus AG Chemotherapy Alone in Advanced Pancreatic Cancer",
+    "conditions": [
+      "Non-Resectable Pancreas Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05865730",
+    "title": "A Study of Oncobax\u00ae-AK in Patients With Advanced Solid Tumors",
+    "conditions": [
+      "Carcinoma, Renal Cell",
+      "Carcinoma, Non-Small-Cell Lung"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05516628",
+    "title": "Deep, Multi-omics Phenotyping to Predict Response, Resistance and Recurrence to Adjuvant Atezolizumab Plus Bevacizumab in Resected Hepatocellular Carcinoma",
+    "conditions": [
+      "Hepatocellular Carcinoma"
+    ],
+    "min_age": "21 Years",
+    "max_age": "90 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04169542",
+    "title": "Impact of COVID-19 Pandemic on Out-of-Pocket Costs, Lost Wages, and Unemployment in Patients With Breast Cancer Undergoing Breast Surgery",
+    "conditions": [
+      "Breast Ductal Carcinoma In Situ",
+      "COVID-19 Infection",
+      "Hereditary Breast Carcinoma",
+      "Invasive Breast Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06472505",
+    "title": "Using Polyglycolic Acid Mesh Prevents Cerebrospinal Fluid Leakage",
+    "conditions": [
+      "Pituitary Tumor",
+      "Cerebrospinal Fluid Leakage"
+    ],
+    "min_age": "20 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04452305",
+    "title": "Spermatogonial Stem Cell (SSC) Transplant and Testicular Tissue Grafting",
+    "conditions": [
+      "Infertility, Male",
+      "Cancer",
+      "Autoimmune Disorder"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06043466",
+    "title": "A Clinical Trial Targeting CEA Chimeric Antigen Receptor T (CAR-T) for CEA Positive Advanced Malignant Solid Tumors",
+    "conditions": [
+      "Colorectal Cancer",
+      "Esophagus Cancer",
+      "Gastric Cancer",
+      "Pancreas Cancer",
+      "Non-small Cell Lung Cancer",
+      "Breast Cancer",
+      "Bile Duct Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05990556",
+    "title": "Research on the Safety and Efficacy of Blocking Dural Blood Supply in Glioblastoma Patients",
+    "conditions": [
+      "Glioblastoma",
+      "Meningeal Arteries"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06813456",
+    "title": "Implementation of Solid Digital PCR to Support Gold-standard Methods for Evaluation of HER2 Amplification Status: Focus on HER2-low Subtype",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05006131",
+    "title": "Pancreatic Cancer Screening for At-risk Individuals",
+    "conditions": [
+      "Pancreatic Cancer, Adult"
+    ],
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06856902",
+    "title": "BEhavioral and Adherence Model for Improving Quality, Health Outcomes and Cost-Effectiveness of healthcaRe",
+    "conditions": [
+      "Cardiovascular Diseases",
+      "Endocrinology",
+      "Inmunology",
+      "Neurology",
+      "Oncology",
+      "Rare Diseases"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05922345",
+    "title": "Evaluation of the Efficacy and Safety of AL2846 Capsule Combined With TQB2450 Injection Compared to Docetaxel Injection in Advanced Non-small Cell Lung Cancer Patients Who Have Failed With Immunotherapy.",
+    "conditions": [
+      "Non-small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04196257",
+    "title": "BP1001-A in Patients With Advanced or Recurrent Solid Tumors",
+    "conditions": [
+      "Solid Tumor, Adult",
+      "Carcinoma, Ovarian Epithelial",
+      "Fallopian Tube Neoplasms",
+      "Endometrial Cancer",
+      "Peritoneal Cancer",
+      "Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05673928",
+    "title": "A Phase II Study of Tucatinib and Ado-trastuzumab Emtansine (T-DM1) in Patients With HER2-positive Metastatic Solid Tumors and Metastases to Brain (TUCATEMEB)",
+    "conditions": [
+      "Metastatic Solid Tumor",
+      "Brain Metastases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07188103",
+    "title": "Ivonescimab Plus Short-Course Hypofractionated Radiotherapy as Second-Line Therapy for Esophageal Squamous Cell Carcinoma",
+    "conditions": [
+      "Esophageal Squamous Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06523673",
+    "title": "Stereotactic Body Radiotherapy for Oligo-Progression Metastatic Non-Small Cell Lung Cancer",
+    "conditions": [
+      "Metastatic Non-Small Cell Lung Cancer",
+      "NSCLC Stage IV",
+      "OligoProgressive Metastatic Disease"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06353854",
+    "title": "Prospective National Cohort Evaluating Predictive Biomarkers of Resistance to Immunotherapy in Patients With MSI/dMMR Metastatic Colorectal Cancer (CORESIM)",
+    "conditions": [
+      "Colorectal Cancer Metastatic",
+      "Microsatellite Instability-High Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05315154",
+    "title": "Sentinel Lymph Node Biopsy Versus No Axillary Surgery in Early Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06461156",
+    "title": "A Study of HS-10504 in Patients With Advanced or Metastatic Non-Small-Cell Lung Cancer(NSCLC)",
+    "conditions": [
+      "Locally Advanced or Metastatic NSCLC"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT01102556",
+    "title": "PANCREATIC DISEASE COHORT A Registry and Biospecimen Bank to Better Understand Pancreatic Disease",
+    "conditions": [
+      "Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07506902",
+    "title": "A Study of Adaptive Radiotherapy of Head-neck Cancer Using Daily Replanning and Optimization of the Treatment Plan.",
+    "conditions": [
+      "Head & Neck Squamous Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02495337",
+    "title": "Tissue Collection Protocol for Gastroesophageal Cancers",
+    "conditions": [
+      "Esophageal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06071195",
+    "title": "All-in-One Prostate Cancer Staging with MRI",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "35 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06323239",
+    "title": "SBRT and LDRT Combined With PD-1 Antibody and Chemotherapy in r/m Nasopharyngeal Carcinoma",
+    "conditions": [
+      "Nasopharyngeal Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04778839",
+    "title": "Study of Paclitaxel Micelles for Injection in Chinese Patients With Advanced Solid Tumors.",
+    "conditions": [
+      "Advanced Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06823375",
+    "title": "SBRT With Immunotherapy and Atezo-Bev in HCC With Major Portal Vein Thrombosis",
+    "conditions": [
+      "HCC"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07506057",
+    "title": "Trastuzumab in Combination With Serplulimab and Chemotherapy for the Treatment of HER2-overexpressing Unresectable Locally Advanced or Metastatic Biliary Tract Cancer or Urothelial Carcinoma After Failure of Standard Therapy",
+    "conditions": [
+      "Urothelial Carcinoma",
+      "Biliary Tract Cancer",
+      "HER2"
+    ],
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07543757",
+    "title": "Prostate Cancer Risk Identification in a Multi-Ethnic Cohort: a Prospective US-based Multi-center Validation Study of Proclarix",
+    "conditions": [
+      "Prostate Cancer Detection"
+    ],
+    "min_age": "40 Years",
+    "max_age": "75 Years",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06313801",
+    "title": "Comparing the Safety and Efficacy of First-line Polychemotherapy and Polychemotherapy in Combination With PIPAC Sessions",
+    "conditions": [
+      "Gastric Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05932212",
+    "title": "AK104 for Recurrent or Metastatic Vulvar Cancer",
+    "conditions": [
+      "Vulvar Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06752512",
+    "title": "Remote Temperature Monitoring of Patients At Risk for Developing Fever",
+    "conditions": [
+      "Fever",
+      "Cancer",
+      "Remote Patient Monitoring"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04107181",
+    "title": "Pilot Study for Speculum Free Cervical Cancer Screening",
+    "conditions": [
+      "Cervical Cancer"
+    ],
+    "min_age": "21 Years",
+    "max_age": "65 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04847505",
+    "title": "68Ga-DOTA-TATE PET/CT Imaging in NETs",
+    "conditions": [
+      "Neuroendocrine Tumors"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07142551",
+    "title": "Supraphysiologic Testosterone Priming Induces Darolutamide Extended Response",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07071051",
+    "title": "Exploring the Effect of Calaspargase Pegol on the Coagulation System in Pediatric Acute Lymphoblastic Leukemia (ALL) Patients: Pilot Study",
+    "conditions": [
+      "Childhood Acute Lymphoblastic Leukemia",
+      "Childhood Lymphoblastic Lymphoma"
+    ],
+    "min_age": "2 Years",
+    "max_age": "22 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06998745",
+    "title": "The Impact of MTM Model on the Efficacy and Safety of Anticoagulant Therapy in Postoperative Colorectal Cancer Patients",
+    "conditions": [
+      "Thrombosis, Venous"
+    ],
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05900895",
+    "title": "Estradiol Plus Olaparib for Breast Cancer (PHOEBE)",
+    "conditions": [
+      "Metastatic Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06146257",
+    "title": "A Study of GLB-001 in Patients With Relapsed or Refractory Acute Myeloid Leukemia or Relapsed or Refractory Higher Risk Myelodysplastic Syndromes",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "Myelodysplastic Syndromes"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06100328",
+    "title": "Characteristics of Cardiac Tumor and the Risk Stratification of Subsequent Adverse Events (UNIQUE)",
+    "conditions": [
+      "Cardiac Tumor"
+    ],
+    "min_age": "3 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06801067",
+    "title": "A Study of SER-155 to Treat Diarrhea in People on Immunotherapy",
+    "conditions": [
+      "Diarrhea",
+      "Enterocolitis"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05770531",
+    "title": "Circulating Tumor DNA to Guide Changes in Standard of Care Chemotherapy",
+    "conditions": [
+      "Metastatic HER2-Negative Breast Carcinoma",
+      "Metastatic Triple-Negative Breast Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06326502",
+    "title": "A Safety and Efficacy Study of Multiple Tyrosine Kinase Inhibitor Drug (ETN101) in Advanced Hepatocellular Carcinoma",
+    "conditions": [
+      "Hepatocellular Carcinoma",
+      "Advanced Hepatocellular Carcinoma",
+      "Liver Cancer"
+    ],
+    "min_age": "19 Years",
+    "max_age": "65 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06802172",
+    "title": "Effect of Meal Timing During Cancer Treatment in Patients in Alaska: A Randomized Clinical Trial",
+    "conditions": [
+      "Rectal Cancer Stage II",
+      "Rectal Cancer Stage III",
+      "Breast Cancer Stage I",
+      "Rectal Cancer Stage IV",
+      "Breast Cancer Stage II",
+      "Breast Cancer Stage III",
+      "Solid Tumor Cancer"
+    ],
+    "min_age": "21 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06358677",
+    "title": "Topical Tretinoin Prophylaxis for Anti-EGFR Induced Skin Toxicity in Patients With Solid Tumors",
+    "conditions": [
+      "Metastatic Solid Tumor",
+      "Locally Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06350500",
+    "title": "A Patient Navigation Program for Addressing Disparities in Breast Cancer Care",
+    "conditions": [
+      "Breast Carcinoma",
+      "Breast Ductal Carcinoma in Situ"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06662786",
+    "title": "A Study of Amivantamab and mFOLFOX6 or FOLFIRI Versus Cetuximab and mFOLFOX6 or FOLFIRI as First-line Treatment in Participants With KRAS/NRAS and BRAF Wild-type Unresectable or Metastatic Left-sided Colorectal Cancer",
+    "conditions": [
+      "Colorectal Neoplasms"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06363994",
+    "title": "A Global Phase 3 Study of Orelabrutinib+BR Vs.BR in Pts with TN MCL",
+    "conditions": [
+      "Mantle Cell Lymphoma"
+    ],
+    "min_age": "60 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06626022",
+    "title": "Screening for Prostate Cancer Using High Resolution Micro-ultrasound Versus Multiparametric Magnetic Resonance Imaging.",
+    "conditions": [
+      "Prostate Cancer Screening"
+    ],
+    "min_age": "50 Years",
+    "max_age": "70 Years",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06773039",
+    "title": "Assessment of Different Therapeutic Strategies in Patients With Head and Neck Neoplasms Treated With Radiotherapy",
+    "conditions": [
+      "Head and Neck Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04794777",
+    "title": "Comparing \"Salvage\" Radiotherapy and Individualized PSMA PET/CT Targeted Treatment in With Relapsing Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05720130",
+    "title": "Phase Ib/IIa Dose Escalation and Expansion Study of [\u00b2\u00b9\u00b2Pb]Pb-ADVC001 in Metastatic Prostate Cancer (TheraPb - Phase I/II Study).",
+    "conditions": [
+      "Prostate Cancer",
+      "Metastatic Castration-resistant Prostate Cancer",
+      "Metastatic Hormone Sensitive Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05842629",
+    "title": "Improved Diagnosis of Ovarian Cancer",
+    "conditions": [
+      "Ovarian Neoplasms",
+      "Ovarian Cancer",
+      "Ovarian Cysts",
+      "Adnexal Mass",
+      "Adnexal Lesion",
+      "Adnexal Carcinoma",
+      "Adnexal Neoplasm"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05029531",
+    "title": "Combined Immuno-chemotherapy for Patients With B-linear Acute Lymphoblastic Leukemia Diagnosed From 0 to 365 Days of Life (ALL-Baby-2021)",
+    "conditions": [
+      "Acute Lymphoblastic Leukemia, Pediatric",
+      "ALL, Infants"
+    ],
+    "min_age": "1 Day",
+    "max_age": "365 Days",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06034002",
+    "title": "A Study to Evaluate INCA033989 Administered as a Monotherapy or in Combination With Ruxolitinib in Participants With Myeloproliferative Neoplasms",
+    "conditions": [
+      "Myeloproliferative Neoplasms"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06908902",
+    "title": "Prospective Study on the Safety and Efficacy of Robot-Assisted Laparoscopic Partial Nephrectomy With Renal Artery Off-Clamp in the Treatment of cT1 Renal Tumors",
+    "conditions": [
+      "RCC, Renal Cell Cancer",
+      "Partial Nephrectomy"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06538337",
+    "title": "Hypofractionated External Beam Radiotherapy With Adaptive Planning for Endometrial and Cervical Cancers",
+    "conditions": [
+      "Endometrial Cancer",
+      "Cervical Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT03802695",
+    "title": "A Phase 1 Study of Orca-Q in Recipients Undergoing Allogeneic Transplantation for Hematologic Malignancies",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "Myelodysplastic Syndromes",
+      "Mixed Phenotype Acute Leukemia",
+      "Acute Lymphoblastic Leukemia"
+    ],
+    "min_age": "12 Years",
+    "max_age": "78 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT01788839",
+    "title": "Longitudinal Sexual and Reproductive Health Study of Women With Breast Cancer and Lymphoma",
+    "conditions": [
+      "Breast Cancer",
+      "Lymphoma",
+      "Hodgkin's Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04761328",
+    "title": "Fear of Recurrence and Stopping Immunotherapy",
+    "conditions": [
+      "Cognitive Behavioral Therapy"
+    ],
+    "min_age": "21 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05367700",
+    "title": "A Study of HS-10382 in Patients With Chronic Myeloid Leukemia.",
+    "conditions": [
+      "CML, Chronic Phase",
+      "CML, Accelerated Phase"
+    ],
+    "min_age": "18 Years",
+    "max_age": "74 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06475300",
+    "title": "A Study of BL-B01D1+PD-1 Monoclonal Antibody in Patients With Locally Advanced or Metastatic Non-small Cell Lung Cancer, Nasopharyngeal Carcinoma and Other Solid Tumors",
+    "conditions": [
+      "Non-small Cell Lung Cancer",
+      "Nasopharyngeal Carcinoma",
+      "Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04804007",
+    "title": "Maintenance Oral Etoposide or Observation Following High-dose Chemo for GCT",
+    "conditions": [
+      "Germ Cell Tumor",
+      "Non-seminomatous Germ Cell Tumor",
+      "Ovarian Germ Cell Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07091942",
+    "title": "Curative Therapy After Atezolizumab and Bevacizumab Treatment for Unresectable Hepatocellular Carcinoma",
+    "conditions": [
+      "Hepatocellular Carcinoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03949231",
+    "title": "Infusion of PD1/PDL1/CTLA4 Inhibitors Via Hepatic Arterial for Immunotherapy of Hepatocellular Carcinoma",
+    "conditions": [
+      "Liver Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03237702",
+    "title": "Decipher Lethal Prostate Cancer Biology - Urine Metabolomics",
+    "conditions": [
+      "Significant Prostate Cancer"
+    ],
+    "min_age": "30 Years",
+    "max_age": "100 Years",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05990803",
+    "title": "A Study of BL-B01D1, SI-B003 and BL-B01D1+SI-B003 in Patients With Recurrent or Metastatic Cervical Cancer and Other Gynecological Malignancies",
+    "conditions": [
+      "Cervical Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07160270",
+    "title": "This Study Aims to Clarify the Prevalence and Characteristics of Neuropathy, Along With Associated Paraclinical Findings in Patients With Waldenstr\u00f6m's Macroglobulinemia (WM) in a Cohort of WM Patients to Optimize the Diagnostic Process",
+    "conditions": [
+      "Waldenstrom Macroglobulinaemia",
+      "Peripheral Neuropathies"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06329973",
+    "title": "Fruquintinib in Combination With Sintilimab and CAPEOX as First-line Treatment for G/GEJ Cancer",
+    "conditions": [
+      "Metastatic Gastroesophageal Junction Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07245069",
+    "title": "Use of Dapagliflozin in Primary Prevention of Cardiotoxicity of Anthracycline Chemotherapy in Breast Cancer Patients",
+    "conditions": [
+      "Heart Failure",
+      "Anthracycline-induced Cardiac Toxicity",
+      "Endothelial Function (FMD)",
+      "Arterial Stiffness",
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04360941",
+    "title": "PAveMenT: Palbociclib and Avelumab in Metastatic AR+ Triple Negative Breast Cancer",
+    "conditions": [
+      "Triple Negative Breast Cancer",
+      "Locally Advanced Breast Cancer",
+      "Recurrent Breast Cancer",
+      "Metastatic Breast Cancer",
+      "ER+ Breast Cancer",
+      "HER2-positive Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07197554",
+    "title": "A Phase 1/1B Study of ST-01156, a Small Molecule RBM39 Degrader, in Patients With Advanced Solid Malignancies",
+    "conditions": [
+      "Advanced Solid Tumors",
+      "Ewing Sarcoma",
+      "Hepatocellular Carcinoma (HCC)",
+      "Biliary Tract Cancer (BTC)"
+    ],
+    "min_age": "16 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04093466",
+    "title": "A Phase 1 Study of CX1003 (Kanitinib) in Patients with Advanced Solid Tumors",
+    "conditions": [
+      "Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06375122",
+    "title": "Natural History Study of Kaposi Sarcoma",
+    "conditions": [
+      "Kaposi Sarcoma",
+      "HIV"
+    ],
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06970353",
+    "title": "Phase II Trial of Tunlametinib in NRAS-Mutant Advanced Thyroid Cancer",
+    "conditions": [
+      "Radioactive Iodine-refractory, Differentiated Thyroid Cancer With NRAS Mutation",
+      "Advanced PDTC or ATC With NRAS Mutation"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06663046",
+    "title": "Universal CAR-T Cells (REVO-UWD-00B) for Refractory and Relapsed Multiple Myeloma",
+    "conditions": [
+      "Multiple Myleoma",
+      "Refractory and Relapsed Multiple Myeloma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06712927",
+    "title": "Trial of Relatlimab, Nivolumab, and Ipilimumab in Patients With Asymptomatic and Symptomatic Melanoma Brain Metastases",
+    "conditions": [
+      "Melanoma",
+      "Brain Metastases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05592886",
+    "title": "A Novel Oral Synbiotic Formula in Reducing Advanced Adenoma Recurrence and Colorectal Neoplasia-related Bacterial Gene Markers",
+    "conditions": [
+      "Colorectal Neoplasms",
+      "Colorectal Adenoma",
+      "Colorectal Cancer",
+      "Advanced Adenoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07263386",
+    "title": "A Phase II, Multicenter, Randomized, Controlled Clinical Study Comparing the Efficacy and Safety of Sintilimab Plus SOX Versus SOX Alone as Adjuvant Therapy for PD-L1-Positive, Stage pN3 Gastric Cancer",
+    "conditions": [
+      "Gastric Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04817566",
+    "title": "Cognitive Training and Brain Stimulation in Women With Post-chemotherapy Cognitive Impairment",
+    "conditions": [
+      "Breast Cancer",
+      "Cognitive Impairment"
+    ],
+    "min_age": "18 Years",
+    "max_age": "65 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07205822",
+    "title": "A Study of Dato-DXd in Inoperable or Metastatic Hormone Receptor-positive, HER2 IHC 0 Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07422337",
+    "title": "A Multi-site Study to Evaluate the Persistence of Protective Immunity to Routine Childhood Vaccinations in Participants With B-ALL/Ly Who Have Received Blinatumomab",
+    "conditions": [
+      "B-Cell ALL",
+      "B-Cell Acute Lymphoblastic Leukaemia",
+      "B-Cell Lymphoblastic Leukemia",
+      "B-Cell Lymphoblastic Leukemia/Lymphoma",
+      "B-cell Acute Lymphoblastic Leukemia (B-ALL)",
+      "B-cell Acute Lymphoblastic Leukemia",
+      "B-cell Childhood Acute Lymphoblastic Leukemia",
+      "B-cell Leukemia"
+    ],
+    "min_age": "1 Year",
+    "max_age": "23 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06453057",
+    "title": "Autologous Tumor-Infiltrating Lymphocyte (GT307) for Treatment of Patients With Solid Tumours",
+    "conditions": [
+      "Adult"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06700057",
+    "title": "Clinical and Dosimetric Study of Patients Treated With 177Lu-PSMA-617 for Prostate Cancer.",
+    "conditions": [
+      "Prostate Cancer",
+      "Metastasis"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06637462",
+    "title": "A Study of Response to Standard Treatment Before Surgery in People With Rectal Cancer",
+    "conditions": [
+      "Rectal Cancer",
+      "Adenocarcinoma of the Rectum"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04852588",
+    "title": "Chest Lymph Node Sampling in Patients With Advanced Lung Cancer to be Treated With Curative-intent Radiation Treatment",
+    "conditions": [
+      "Non-Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06498388",
+    "title": "Predicting Breast Cancer With the BRAVE System",
+    "conditions": [
+      "Breast Mass",
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06415669",
+    "title": "A Study of Paclitaxel Combined With Apatinib and Adebrelimab in Gastric/Gastroesophageal Junction Adenocarcinoma",
+    "conditions": [
+      "Gastric/Gastroesophageal Junction Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05727605",
+    "title": "Neurocognition After Radiotherapy in CNS- and Skull-base Tumors",
+    "conditions": [
+      "Cognition",
+      "Brain Tumor",
+      "Magnetic Resonance Imaging",
+      "Meningioma",
+      "Glioma",
+      "Pituitary Adenoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06313853",
+    "title": "Enhancing Triadic Communication About Cognition for Older Adults With Alzheimer's Disease or Related Dementias Facing a Cancer Management Decision",
+    "conditions": [
+      "Cancer",
+      "Dementia"
+    ],
+    "min_age": "65 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06336070",
+    "title": "Metabolic Flexibility and Autonomic Control After Muscle Power vs Metabolic Power Training in Postmenopausal Oncological Women: the POWER Health Study",
+    "conditions": [
+      "Breast Cancer Female",
+      "Cardiometabolic Syndrome",
+      "Metabolism Disorder, Lipid",
+      "Autonomic Dysfunction",
+      "Cardiovascular Diseases in Old Age"
+    ],
+    "min_age": "35 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06070870",
+    "title": "Health Education Approach to Lung Screening",
+    "conditions": [
+      "Lung Cancer"
+    ],
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06245122",
+    "title": "A Study of CS23546 in Subjects With Advanced Tumors",
+    "conditions": [
+      "Advanced Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06115122",
+    "title": "PEPPI Study: Identification of Women at Risk for Placental Dysfunction",
+    "conditions": [
+      "Pre-Eclampsia",
+      "Intrauterine Growth Restriction",
+      "Polycystic Ovary Syndrome",
+      "Iron-deficiency",
+      "Cardiovascular Diseases",
+      "Hypertensive Disorder of Pregnancy",
+      "Proteinuria in Pregnancy"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04936529",
+    "title": "A Study of a Vaccine in Combination With \u03b2-glucan and GM-CSF in People With Neuroblastoma",
+    "conditions": [
+      "Neuroblastoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07286929",
+    "title": "Evaluation of the Variation Over Time of Visuospatial Deficit in Patients With Parietal Lobe Glioma",
+    "conditions": [
+      "Glioma",
+      "Parietal Lobe Glioma",
+      "Visuspatial Deficit",
+      "Unilateral Spatial Neglect (USN)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06032845",
+    "title": "Cryoablation Combined with Tislelizumab Plus Lenvatinib in Previously Treated Solid Tumors (CASTLE-11)",
+    "conditions": [
+      "Solid Tumor, Adult"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07252739",
+    "title": "KEYMAKER-U01 Substudy 01J: A Study of Pembrolizumab Plus MK-1084 in Participants With Non-Small Cell Lung Cancer (NSCLC) With Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) G12C Mutations (MK-3475-01J/KEYMAKER-U01J)",
+    "conditions": [
+      "Malignant Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02869477",
+    "title": "Institut Paoli Calmettes Cardia Cancer Database",
+    "conditions": [
+      "Stomach Neoplasms",
+      "Cardia"
+    ],
+    "min_age": "18 Years",
+    "max_age": "95 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04989946",
+    "title": "Androgen Deprivation, With or Without pTVG-AR, and With or Without T-Cell Checkpoint Blockade, in Patients With Newly Diagnosed, High-Risk Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07335354",
+    "title": "A Study of a Decision Tool for People Considering Breast Reconstruction Surgery",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06927466",
+    "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Preliminary Efficacy of B019 Injection in Subjects With Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia.",
+    "conditions": [
+      "Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia"
+    ],
+    "min_age": "3 Years",
+    "max_age": "25 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06615466",
+    "title": "Super-Hypofractionated Partial Breast Irradiation",
+    "conditions": [
+      "Breast Cancer",
+      "Radiotherapy Side Effect"
+    ],
+    "min_age": "45 Years",
+    "max_age": "74 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07061951",
+    "title": "Testing the Effectiveness of the Anti-cancer Drug, Mirdametinib, in Treating Relapsed, Refractory Chronic Lymphocytic Leukemia",
+    "conditions": [
+      "Recurrent Chronic Lymphocytic Leukemia",
+      "Recurrent Small Lymphocytic Lymphoma",
+      "Refractory Chronic Lymphocytic Leukemia",
+      "Refractory Small Lymphocytic Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04689802",
+    "title": "To Identify Potential New Urine Marker Panel for Cancer Screening",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04499053",
+    "title": "Durvalumab and Tremelimumab in Combination With Chemotherapy in HIV-infected Patients With Non-small Cell Lung Cancer",
+    "conditions": [
+      "Carcinoma, Non-Small Cell Lung"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07101237",
+    "title": "An Exploratory Study on Developing an Integrated Approach Combining Multimodal Imaging and Multi-omics Characterization of Tumor Heterogeneity for Precision Diagnosis and Treatment Optimization in Liver Cancer.",
+    "conditions": [
+      "Hepatocellular Carcinoma (HCC)",
+      "Intrahepatic Cholangiocarcinoma (ICC)",
+      "Primary Liver Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06612645",
+    "title": "Safety and Efficacy of CMD03 CAR T Cell in Children With Relapse or Refractory Solid Tumors",
+    "conditions": [
+      "Pediatric Cancers",
+      "Solid Tumor Pediatric"
+    ],
+    "min_age": "1 Year",
+    "max_age": "25 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05178472",
+    "title": "Vertebroplasty With Radiation Therapy for Spine Metastatic Cancer Patients With Indeterminate Lesion (SINS Criteria)",
+    "conditions": [
+      "Hematopoietic and Lymphoid Cell Neoplasm",
+      "Malignant Solid Neoplasm",
+      "Metastatic Malignant Neoplasm in the Spine"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06844357",
+    "title": "A Phase II/III Trial Comparing Transarterial Tirapazamine Embolization (TATE) With cTACE for Intermediate-stage Liver Cancer.",
+    "conditions": [
+      "HCC"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04904757",
+    "title": "Contrast-enhanced Spectral Mammography (CESM) Breast Cancer Screening",
+    "conditions": [
+      "Mammographic Breast Density",
+      "Mammography"
+    ],
+    "min_age": "40 Years",
+    "max_age": "69 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06042894",
+    "title": "A Study of SI-B003 or BL-B01D1+SI-B003 in Patients With Unresectable Locally Advanced or Recurrent Metastatic HER2 Negative Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06306456",
+    "title": "A Phase Ib/II Clinical Study of GH21 Capsules Combined With Osimertinib Mesylate Tablets in Patients With NSCLC",
+    "conditions": [
+      "Non-Small Cell Lung Cancer With EGFR Mutation"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05497531",
+    "title": "Pilot Comparing ctDNA IDV vs. SPV Sample in Pts Undergoing Biopsies for Hepatobiliary and Pancreatic Cancers",
+    "conditions": [
+      "Hepatobiliary Cancer",
+      "Pancreatic Cancer",
+      "Hepatocellular Carcinoma",
+      "Cholangiocarcinoma",
+      "Ampullary Cancer",
+      "Pancreatic Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04219202",
+    "title": "Neoadjuvant Irradiation of Retroperitoneal Soft Tissue Sarcoma With Ions Retro-Ion",
+    "conditions": [
+      "Sarcoma,Soft Tissue"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05918445",
+    "title": "PM8002 in the Treatment of Patients With Advanced Solid Tumors",
+    "conditions": [
+      "Malignant Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02781337",
+    "title": "Epidemiological and Molecular Colorectal Cancer Registry",
+    "conditions": [
+      "Colorectal Neoplasms",
+      "Colorectal Cancer"
+    ],
+    "min_age": "21 Years",
+    "max_age": "96 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03364803",
+    "title": "Collecting Information About Treatment Results for Patients With Cushing's Syndrome",
+    "conditions": [
+      "Cushing's Disease",
+      "Cushing Syndrome",
+      "Cushing Disease"
+    ],
+    "min_age": "14 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03562273",
+    "title": "GammaPod Registry and Quality of Life Nomogram",
+    "conditions": [
+      "Breast Cancer Female"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04783805",
+    "title": "Conservative Management of HSIL in Patients With Future Pregnancy Aspiration",
+    "conditions": [
+      "Cervical Intraepithelial Neoplasia",
+      "Squamous Intraepithelial Lesions of the Cervix",
+      "Uterine Cervical Dysplasia"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07015151",
+    "title": "Mobile Lung Cancer Screening",
+    "conditions": [
+      "Lung Cancer Prevention"
+    ],
+    "min_age": "50 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06200831",
+    "title": "Simultaneous vs. Staged Resection of Colorectal Cancer With Synchronous Liver Metastases",
+    "conditions": [
+      "Colorectal Cancer",
+      "Colorectal Neoplasms Malignant",
+      "Liver Metastasis Colon Cancer",
+      "Liver Metastases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04949737",
+    "title": "Prevalence of Helicobacter Pylori Infection and Gastric Cancer in the West Indies",
+    "conditions": [
+      "Stomach Neoplasms",
+      "Gastric Neoplasms",
+      "Helicobacter Pylori"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05504772",
+    "title": "Precision Medicine for Every Child With Cancer",
+    "conditions": [
+      "Childhood Cancer",
+      "Childhood Solid Tumor",
+      "Childhood Brain Tumor",
+      "Childhood Leukemia",
+      "Refractory Cancer",
+      "Relapsed Cancer"
+    ],
+    "min_age": "0 Years",
+    "max_age": "25 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05929495",
+    "title": "Phase 2, Open-label, Single-arm Study on the Use of Metformin as Adjunctive Therapy in High-grade Glioma",
+    "conditions": [
+      "Glioblastoma, IDH-wildtype",
+      "Metformin",
+      "Malignancies"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06660446",
+    "title": "Exercise During Chemotherapy Treatment As Adjuvant Program in Patients with Lymphoma: EDONOLA Study.",
+    "conditions": [
+      "Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05770570",
+    "title": "Taxi ROADmAP (Realizing Optimization Around Diet And Physical Activity)",
+    "conditions": [
+      "Overweight",
+      "Overweight and Obesity",
+      "Overweight or Obesity",
+      "Obesity",
+      "Obese"
+    ],
+    "min_age": "21 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04686305",
+    "title": "Phase Ib Study of the Safety of T-DXd and Immunotherapy Agents With and Without Chemotherapy in Advanced or Metastatic HER2+, Non-squamous NSCLC",
+    "conditions": [
+      "Locally Advanced or Metastatic Non-Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06204094",
+    "title": "Node-sparing Radiotherapy Combined with Total Neoadjuvant CAPOX and Sintilimab for MSS Middle and Low Rectal Cancer",
+    "conditions": [
+      "Locally Advanced Rectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04422366",
+    "title": "Evaluate the Efficacy, Immunogenicity and Safety of 9-valent HPV Recombinant Vaccine in Chinese Healthy Females",
+    "conditions": [
+      "Cervical Cancer",
+      "Vulvar Cancer",
+      "Vaginal Cancer",
+      "CIN1",
+      "CIN2",
+      "CIN3",
+      "VaIN1",
+      "VaIN2",
+      "VaIN3",
+      "Genital Wart",
+      "VIN 1",
+      "VIN 2",
+      "VIN 3",
+      "AIS"
+    ],
+    "min_age": "20 Years",
+    "max_age": "45 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05088356",
+    "title": "Reduced Intensity Allogeneic HCT in Advanced Hematologic Malignancies w/T-Cell Depleted Graft",
+    "conditions": [
+      "Allogeneic Hematopoietic Cell Transplantation (HCT)",
+      "Advanced Hematologic Malignancies",
+      "Acute Leukemia",
+      "Chronic Myelogenous Leukemia",
+      "Myelodysplastic Syndromes",
+      "Myeloproliferative Disorders"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03366051",
+    "title": "Sentinel Node Mapping in High Risk Endometrial Cancer",
+    "conditions": [
+      "Endometrial Cancer",
+      "Lymph Node Metastases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT01451502",
+    "title": "Infusion of Cell Populations From Unlicensed Umbilical Cord Blood Units",
+    "conditions": [
+      "Lymphatic Diseases",
+      "Hematopoietic Malignancy"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06282237",
+    "title": "Clinical Evaluation, Motor Performance and Quality of Life in Patients Affected by Soft Tissue Sarcomas, Undergoing Surgical Treatment: Observational Study",
+    "conditions": [
+      "Sarcoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06642545",
+    "title": "Efficacy and Safety Study of Disitamab Vedotin + RC148 vs. Albumin-Paclitaxone \u00b1 Toripalimab in HR-/HER2-low Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05566795",
+    "title": "DAY101 vs. Standard of Care Chemotherapy in Pediatric Participants With Low-Grade Glioma Requiring First-Line Systemic Therapy (LOGGIC/FIREFLY-2)",
+    "conditions": [
+      "Low-grade Glioma",
+      "Rapidly Accelerated Fibrosarcoma (RAF) Altered Glioma",
+      "Pediatric Low-grade Glioma"
+    ],
+    "min_age": "",
+    "max_age": "25 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06960395",
+    "title": "Safety and Preliminary Efficacy of VIR-5525 and VIR-5525 + Pembrolizumab in Participants With Locally Advanced or Metastatic Solid Tumors",
+    "conditions": [
+      "Solid Tumor Malignancies",
+      "EGFR Positive Solid Tumors",
+      "EGFR"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07160439",
+    "title": "Evaluating Digital Micro-Interventions to Reduce Distress and Increase Wellbeing in Breast Cancer Survivors",
+    "conditions": [
+      "Mental Health Issue",
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06001086",
+    "title": "A Phase II Clinical Study of Treatment With Disitamb Vedotin Plus Pyrotinib in HER2-positive Early Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05609994",
+    "title": "ViCToRy: Vorasidenib in Combination With Tumor Specific Peptide Vaccine for Recurrent IDH1 Mutant Lower Grade Gliomas",
+    "conditions": [
+      "Low Grade Glioma of Brain"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06437522",
+    "title": "A Study of BL-B01D1+PD-1 Monoclonal Antibody in Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma and Other Solid Tumors",
+    "conditions": [
+      "Head and Neck Squamous Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02457962",
+    "title": "Mayo Clinic Radiotherapy Patient Outcomes Registry and Biobanking Study",
+    "conditions": [
+      "Solid Tumors",
+      "Hematologic Malignancies"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06655246",
+    "title": "A Study of Ziftomenib in Combination With Imatinib in Patients With Advanced Gastrointestinal Stromal Tumors (GIST)",
+    "conditions": [
+      "Gastrointestinal Stromal Tumor (GIST)",
+      "Gastrointestinal Stromal Cancer",
+      "Gastrointestinal Stromal Neoplasm",
+      "Gastrointestinal Stromal Tumor, Malignant",
+      "Gastrointestinal Stromal Cell Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07260188",
+    "title": "Organoids From Breast Cancer Patients Treated With Neoadjuvant Therapy",
+    "conditions": [
+      "Invasive Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07197827",
+    "title": "A Study of YL242 in Subjects With Advanced Solid Tumors",
+    "conditions": [
+      "Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06007261",
+    "title": "Validation of Rapid On-site Diagnostics in Early Stage Lung Cancer Sampling With a Higher Harmonic Generation Microscope",
+    "conditions": [
+      "Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06720142",
+    "title": "Mg OSTEOCRETE Post-Treatment Outcomes",
+    "conditions": [
+      "Cancer of Bone",
+      "Trauma",
+      "Aseptic Loosening of Orthopaedic Hardware"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05674305",
+    "title": "Radiotherapy Alone Versus Concurrent Chemo-radiotherapy for Nasopharyngeal Carcincoma Patients With Undectable EBV DNA After One Cylce Neoadjuvant Chemotherpy",
+    "conditions": [
+      "Nasopharyngeal Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03694756",
+    "title": "TMEM-MRI: A Pilot Feasibility Study of MRI for Imaging of TMEM in Patients With Operable Breast Cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05736029",
+    "title": "Predicting Responsiveness in Oncology Patients Based on Host Response Evaluation During Anti Cancer Treatments, Using Multiomics",
+    "conditions": [
+      "Non Small Cell Lung Cancer",
+      "Healthy"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05644431",
+    "title": "GastrOesophageal Tumor, Immune Microenvionnment (GOTIM)",
+    "conditions": [
+      "GastroEsophageal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05172245",
+    "title": "Testing the Addition of Ipatasertib to Usual Chemotherapy and Radiation for Head and Neck Cancer",
+    "conditions": [
+      "Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",
+      "Head and Neck Carcinoma of Unknown Primary",
+      "Locally Advanced Head and Neck Squamous Cell Carcinoma",
+      "Locally Advanced Hypopharyngeal Squamous Cell Carcinoma",
+      "Locally Advanced Laryngeal Squamous Cell Carcinoma",
+      "Locally Advanced Nasal Cavity Squamous Cell Carcinoma",
+      "Locally Advanced Oral Cavity Squamous Cell Carcinoma",
+      "Locally Advanced Oropharyngeal Squamous Cell Carcinoma",
+      "Locally Advanced Paranasal Sinus Squamous Cell Carcinoma",
+      "Locally Advanced Sinonasal Squamous Cell Carcinoma",
+      "Maxillary Sinus Squamous Cell Carcinoma",
+      "Stage III Hypopharyngeal Carcinoma AJCC v8",
+      "Stage III Laryngeal Cancer AJCC v8",
+      "Stage III Lip and Oral Cavity Cancer AJCC v8",
+      "Stage III Oropharyngeal (p16-Negative) Carcinoma AJCC v8",
+      "Stage III Sinonasal Cancer AJCC v8",
+      "Stage IVA Hypopharyngeal Carcinoma AJCC v8",
+      "Stage IVA Laryngeal Cancer AJCC v8",
+      "Stage IVA Lip and Oral Cavity Cancer AJCC v8",
+      "Stage IVA Oropharyngeal (p16-Negative) Carcinoma AJCC v8",
+      "Stage IVA Sinonasal Cancer AJCC v8",
+      "Stage IVB Hypopharyngeal Carcinoma AJCC v8",
+      "Stage IVB Laryngeal Cancer AJCC v8",
+      "Stage IVB Lip and Oral Cavity Cancer AJCC v8",
+      "Stage IVB Oropharyngeal (p16-Negative) Carcinoma AJCC v8",
+      "Stage IVB Sinonasal Cancer AJCC v8"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02970045",
+    "title": "Norris ORIEN Total Cancer Care",
+    "conditions": [
+      "Cancer Risk",
+      "Malignant Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05007873",
+    "title": "ASTX727 and Dasatinib for the Treatment of Newly Diagnosed Philadelphia Chromosome or BCR-ABL Positive Chronic Myeloid Leukemia in Chronic Phase",
+    "conditions": [
+      "Chronic Phase Chronic Myelogenous Leukemia",
+      "Philadelphia Chromosome Positive",
+      "BCR-ABL1 Positive Chronic Myelogenous Leukemia",
+      "BCR-ABL1 Positive"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07230405",
+    "title": "A Phase II Study of SKB571 in Patients With Lung Cancer",
+    "conditions": [
+      "Lung Cancer (Non-Small Cell)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07055594",
+    "title": "A Study to Investigate Safety and Preliminary Efficacy of SOA101 in Adult Subjects With Advanced Solid Tumors",
+    "conditions": [
+      "Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06360822",
+    "title": "Increasing Equity in Lung Cancer Screening",
+    "conditions": [
+      "Lung Cancer"
+    ],
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04588402",
+    "title": "Impact of HPV Vaccination on Prevention of Cervical HPV Infection in Sikkim, India",
+    "conditions": [
+      "Cervical Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "22 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07110753",
+    "title": "The Effect of a Combined Lifestyle Intervention for Patients With Cancer on Quality of Life",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "40 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05922553",
+    "title": "Using Mukbang to Improve Appetite, Nutritional Status and Quality of Life in Children With Cancer",
+    "conditions": [
+      "Children With Cancer"
+    ],
+    "min_age": "6 Years",
+    "max_age": "18 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06789848",
+    "title": "Ligufalimab and Cadonilimab in Advanced Liver Cancers",
+    "conditions": [
+      "Advanced Hepatocellular Carcinoma",
+      "Refractory Hepatocellular Carcinoma",
+      "Biliary Tract Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06305715",
+    "title": "Radiation Prior to TKI to Delay Progression in Advanced Driver-Mutated Non-small Cell Lung Cancers (RadiaNCe Lung X)",
+    "conditions": [
+      "Non Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05429697",
+    "title": "Study of SMT-NK Inj. Plus Pembrolizumab vs Pembrolizumab Monotherapy in Patients With Advanced Biliary Tract Cancer",
+    "conditions": [
+      "Biliary Tract Cancer"
+    ],
+    "min_age": "19 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06364410",
+    "title": "Testing the Combination of the Anticancer Drugs Trastuzumab Deruxtecan (DS-8201a) and Azenosertib (ZN-c3) in Patients With Stomach or Other Solid Tumors",
+    "conditions": [
+      "Clinical Stage III Gastric Cancer AJCC v8",
+      "Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8",
+      "Clinical Stage IV Gastric Cancer AJCC v8",
+      "Clinical Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+      "Locally Advanced Gastric Carcinoma",
+      "Locally Advanced Gastroesophageal Junction Adenocarcinoma",
+      "Locally Advanced Malignant Solid Neoplasm",
+      "Metastatic Gastric Carcinoma",
+      "Metastatic Gastroesophageal Junction Adenocarcinoma",
+      "Metastatic Malignant Solid Neoplasm",
+      "Unresectable Gastric Carcinoma",
+      "Unresectable Gastroesophageal Junction Adenocarcinoma",
+      "Unresectable Malignant Solid Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07284420",
+    "title": "ADAPT Forward 1 - ISA1 - a Study to Evaluate Empasiprubart IV as add-on Therapy to Efgartigimod IV in Participants With AChR-Ab Seropositive Generalized Myasthenia Gravis With a Partial Clinical Response to Efgartigimod",
+    "conditions": [
+      "AChR-Ab Seropositive Generalized Myasthenia Gravis",
+      "Myasthenia Gravis",
+      "MG",
+      "gMG",
+      "Generalized Myasthenia Gravis",
+      "Generalized Myasthenia Gravis (gMG)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07274813",
+    "title": "A Phase I Study to Evaluate the Safety, Tolerability, and PK of HLX37 in Advanced/Metastatic Solid Tumors",
+    "conditions": [
+      "Advanced/Metastatic Solid Tumors",
+      "NSCLC"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05858424",
+    "title": "Impact of a Multidisciplinary End-of-treatment Day Hospital on the Quality of Life of Adolescents and Young Adults With Cancer",
+    "conditions": [
+      "Solid Tumor",
+      "Lymphoma"
+    ],
+    "min_age": "15 Years",
+    "max_age": "25 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06043323",
+    "title": "A Phase II Study of Axicabtagene Ciloleucel, an Anti-CD19 Chimeric Antigen Receptor (CAR) Tcell Therapy, in Combination With Radiotherapy (RT) in Relapsed/Refractory Follicular Lymphoma",
+    "conditions": [
+      "Follicular Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT01905826",
+    "title": "Natural History Study of GATA2 Deficiency and Related Disorders",
+    "conditions": [
+      "GATA2 Deficiency"
+    ],
+    "min_age": "2 Years",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04133285",
+    "title": "Registry of Multiple Osteochondromas",
+    "conditions": [
+      "Multiple Osteochondromas"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04433650",
+    "title": "Pictorial Support in Person-centred Care for Children (PicPecc)",
+    "conditions": [
+      "Childhood Cancer",
+      "Communication",
+      "Symptoms and Signs"
+    ],
+    "min_age": "5 Years",
+    "max_age": "17 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05974774",
+    "title": "Intermittent Androgen Deprivation Therapy in the Era of AR Pathway Inhibitors",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06431490",
+    "title": "A Study of TQB2102 for Injection in the Treatment of HER2-positive Biliary Tract Cancer",
+    "conditions": [
+      "Biliary Tract Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06301438",
+    "title": "Dalpiciclib in HR+/HER2- ABC",
+    "conditions": [
+      "Advanced Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07377578",
+    "title": "A Study of Rocbrutinib Versus Investigator's Choice of BTK Inhibitors in Patients With Relapsed or Refractory Mantle Cell Lymphoma",
+    "conditions": [
+      "Mantle Cell Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04979078",
+    "title": "Photobiomodulation Therapy in the Management of Hand-foot Syndrome and Hand-foot Skin Reaction",
+    "conditions": [
+      "Hand-foot Syndrome",
+      "Hand-foot Skin Reaction"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06667908",
+    "title": "A Study of JNJ-90301900 in Combination With Chemoradiation Followed by Consolidation Immunotherapy for Non-Small Cell Lung Cancer (NSCLC)",
+    "conditions": [
+      "Carcinoma, Non-Small-Cell Lung"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07233408",
+    "title": "Tailoring an Online Platform to Promote Evidence-Based Care for Adults With Neurofibromatosis 1 and Low Health Literacy",
+    "conditions": [
+      "Neurofibromatosis 1"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04916990",
+    "title": "Improving Care for Rural Patients With Solid Tumors",
+    "conditions": [
+      "Lung Cancer",
+      "Head and Neck Cancer",
+      "Thyroid Cancer",
+      "Cervical Cancer",
+      "Breast Cancer",
+      "Bladder Cancer",
+      "Colon Cancer",
+      "Rectum Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06339424",
+    "title": "Atezolizumab and Bevacizumab With Photon Radiotherapy for Unresectable Hepatocellular Carcinoma",
+    "conditions": [
+      "Hepatocellular Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05944224",
+    "title": "A Study to Efficacy and Safety of SPH4336 Monotherapy or in Combination With Cadonilimab in Patients With Advanced Solid Tumors.",
+    "conditions": [
+      "Advanced Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05830123",
+    "title": "ARTEMIS-002: HS-20093 in Patients With Relapsed or Refractory Osteosarcoma and Other Sarcomas",
+    "conditions": [
+      "Osteosarcoma",
+      "Sarcoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04562623",
+    "title": "Prospective Study of Immune Alterations in Operable Breast and Ovarian Carcinoma",
+    "conditions": [
+      "Ovarian Carcinoma",
+      "Breast Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06232655",
+    "title": "Cladribine Venetoclax in Monocytic AML",
+    "conditions": [
+      "Acute Myeloid Leukemia"
+    ],
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07070778",
+    "title": "Arterial Stiffness in Individuals With Breast Cancer",
+    "conditions": [
+      "Aerobic Exercise",
+      "Breast Cancer",
+      "Arterial Stiffness"
+    ],
+    "min_age": "40 Years",
+    "max_age": "69 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06866717",
+    "title": "Hybrid Prehabilitation Before Thoracic Surgery",
+    "conditions": [
+      "Non-Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06709417",
+    "title": "A Phase II Clinical Study of Sintilimab Combined with Chemotherapy Followed by Concurrent Chemoradiotherapy for Locally Advanced Unresectable Esophageal Squamous Cell Carcinoma (ESCC) (NICE-CS)",
+    "conditions": [
+      "Esophageal Squamous Cell Carcinoma (ESCC)"
+    ],
+    "min_age": "20 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02977468",
+    "title": "Effects of MK-3475 (Pembrolizumab) on the Breast Tumor Microenvironment in Triple Negative Breast Cancer",
+    "conditions": [
+      "Triple Negative Breast Cancer"
+    ],
+    "min_age": "21 Years",
+    "max_age": "80 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT02848274",
+    "title": "ID Of Prognostic Factors In Mycosis Fungoides/Sezary Syndrome",
+    "conditions": [
+      "Mycosis Fungoides",
+      "Non-Hodgkin's Lymphoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05967910",
+    "title": "The Effect of Chronic Stress on Efficacy of ICIs in Esophageal Cancer Patients (STRESS-ESCA Study)",
+    "conditions": [
+      "Esophageal Cancer",
+      "Immunotherapy"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06584110",
+    "title": "Buddy-Up Dyadic Physical Activity Program for Persons With Dementia and Family Caregivers",
+    "conditions": [
+      "Cognitive Impairment, Mild",
+      "Dementia, Mild",
+      "Dementia",
+      "Caregiver Burden"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05695313",
+    "title": "Randomized Study Versus Placebo for the Prevention of Neurotoxicity Induced by Weekly PACLITAXEL",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Months",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06257680",
+    "title": "A Phase I Study on ReT01 ACT for the Treatment of Advanced Solid Tumors",
+    "conditions": [
+      "Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06266338",
+    "title": "Study of Pembrolizumab and Lenvatinib in Metastatic and Recurrent Cervix Cancer (LenPem Cervix)",
+    "conditions": [
+      "Cervix Cancer",
+      "Cervical Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06696326",
+    "title": "A Multicenter Study Evaluating the Diagnostic Value of 68Ga-MY6349 PET/CT for Prostate Cancer",
+    "conditions": [
+      "Positron-Emission Tomography(PET)",
+      "Prostate Cancer",
+      "Trophoblast Cell Surface Antigen 2"
+    ],
+    "min_age": "18 Years",
+    "max_age": "90 Years",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06497985",
+    "title": "A Study of Tucidinostat in Combination With Sintilimab and Bevacizumab in MSS/pMMR Colorectal Cancer Patients",
+    "conditions": [
+      "Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06456515",
+    "title": "Regorafenib and Sintilimab in Combination with Electroacupuncture in MSS CRC",
+    "conditions": [
+      "Colorectal Cancer Metastatic"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06905015",
+    "title": "Stroke Volume Variation Versus Central Venous Pressure Guidance for Reducing Perioperative Blood Loss During Open Liver Resection",
+    "conditions": [
+      "Liver Tumor; Surgery",
+      "Primary Liver Tumor, Metastatic Liver",
+      "Primary Liver Cancer",
+      "Liver Resection",
+      "Benign Liver Tumor"
+    ],
+    "min_age": "20 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07131735",
+    "title": "Intraoperative Detection of Breast Cancer by Electrosurgical Gas Analysis and Artificial Intelligence",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT03526835",
+    "title": "A Study of Bispecific Antibody MCLA-158 in Patients With Advanced Solid Tumors",
+    "conditions": [
+      "Advanced/Metastatic Solid Tumors",
+      "Colorectal Cancer",
+      "Gastric Cancer",
+      "Gastroesophageal-junction Cancer",
+      "NSCLC",
+      "HNSCC",
+      "Head and Neck Squamous Cell Carcinoma",
+      "Esophageal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06806917",
+    "title": "Twenty Years' Experience in Retroperitoneal Lymph Node Dissection for Testicular Cancer in a Tertiary Referral Center",
+    "conditions": [
+      "Testicular Cancer"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06276491",
+    "title": "Phase 1, Safety and Tolerability Study of XmAb541 in Advanced Solid Tumors",
+    "conditions": [
+      "Ovarian Cancer",
+      "Endometrial Cancer",
+      "Germ Cell Tumor",
+      "Testicular Germ Cell Tumor",
+      "Ovarian Germ Cell Tumor"
+    ],
+    "min_age": "15 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06077591",
+    "title": "Prospective Clinical Validation of Next Generation Sequencing (NGS) and Patient-Derived Tumor Organoids (PDO) Guided Therapy in Patients With Advanced/ Inoperable Solid Tumors",
+    "conditions": [
+      "Hepatocellular Carcinoma",
+      "Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07416474",
+    "title": "RC148 Plus Platinum-Based Chemotherapy vs Tislelizumab Plus Platinum-Based Chemotherapy for First-Line Squamous Non-Small Cell Lung Cancer (sqNSCLC)",
+    "conditions": [
+      "Non-Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06128148",
+    "title": "Phase I Study of JYP0322 in ROS1 Fusion-Positive Solid Tumors",
+    "conditions": [
+      "Protein Kinase Inhibitors",
+      "Other Protocol Specified Criteria",
+      "Lung Neoplasms",
+      "Brain Neoplasms"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04305548",
+    "title": "Study on Trabectedin in Advanced Rearranged Mesenchymal Chondrosarcoma",
+    "conditions": [
+      "Mesenchymal Chondrosarcoma"
+    ],
+    "min_age": "16 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06553885",
+    "title": "Ph II Study of Enfortumab Vedotin in Patients With Advanced or Metastatic CRC or HCC",
+    "conditions": [
+      "Metastatic Colorectal Cancer",
+      "Hepatocellular Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04243785",
+    "title": "A Study of BTX-A51 in People With Relapsed or Refractory Acute Myeloid Leukemia or High-Risk Myelodysplastic Syndrome",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "Myelodysplastic Syndrome"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06741085",
+    "title": "A Study of Stereotactic Radiosurgery (SRS) and Standard Treatment in People With Lung Cancer That Has Spread to the Brain",
+    "conditions": [
+      "Non Small Cell Lung Cancer Metastatic"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05862285",
+    "title": "A Rollover Study for Participants Previously Enrolled in a Genentech and/or F. Hoffman-La Roche Sponsored Study",
+    "conditions": [
+      "Cancer"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06424340",
+    "title": "MB-dNPM1-TCR.1 in Relapsed/Refractory AML",
+    "conditions": [
+      "Leukemia, Myeloid, Acute"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06463340",
+    "title": "Study of SGR-3515 In Participants With Advanced Solid Tumors.",
+    "conditions": [
+      "Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07254091",
+    "title": "Pilot Study of an Implantable Microdevice for In Situ Evaluation of Drug Response in Patients With Pancreatic Cancer",
+    "conditions": [
+      "Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06514118",
+    "title": "Chemoimmunotherapy Plus Residual Lesion Irradiation for the Treatment of Extensive Stage Small-cell Lung Cancer",
+    "conditions": [
+      "Small-cell Lung Cancer",
+      "Residual Tumor",
+      "Radiation"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06932458",
+    "title": "A Clinical Trial of Primary Retroperitoneal Lymph Node Dissection in Patients With Testicular Seminoma With Limited Retroperitoneal Metastases",
+    "conditions": [
+      "Testicular Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06956248",
+    "title": "Innovating Access to Novel Therapies Through Standardized Prospective Integration of Response Evaluations (IMPACT-INSPIRE)",
+    "conditions": [
+      "Solid Tumor"
+    ],
+    "min_age": "21 Years",
+    "max_age": "99 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05817955",
+    "title": "Clinical Study of Azacitidine Combined With Ruxolitinib in the Treatment of Higher-risk MDS/MPN",
+    "conditions": [
+      "MDS/MPN"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03966443",
+    "title": "Fluciclovine PET/CT in Multiple Myeloma Patients",
+    "conditions": [
+      "Myeloma, Multiple",
+      "PET-CT"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05384015",
+    "title": "Study of Pembrolizumab, Lenvatinib and Chemotherapy Combination in First Line Extensive-stage Small Cell Lung Cancer",
+    "conditions": [
+      "Small Cell Lung Cancer Extensive Stage"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05839717",
+    "title": "Determination of the Clonality Profile in Myeloproliferative Neoplasms and Association With the Thrombotic Complications (CLOJAK)",
+    "conditions": [
+      "Myeloproliferative Neoplasm"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06048250",
+    "title": "Mezigdomide (CC-92480) Post Idecabtagene Vicleucel in Treating Patients With Relapsed Multiple Myeloma",
+    "conditions": [
+      "Multiple Myeloma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05470010",
+    "title": "Smartphone App-Based Mindfulness Intervention for French and English Speaker Cancer Survivors",
+    "conditions": [
+      "Cancer",
+      "Psychological"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06955910",
+    "title": "Assessing Financial Toxicity Using the PROFFIT Questionnaire in Patients Treated With Mini-invasive Approach for Urological Malignancies.",
+    "conditions": [
+      "Prostate Cancer",
+      "Bladder Cancer",
+      "Kidney Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05671510",
+    "title": "ONC-392 Versus Docetaxel in Metastatic NSCLC That Progressed on PD-1/PD-L1 Inhibitors",
+    "conditions": [
+      "Non Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06866938",
+    "title": "Study of Re-treatment With [177Lu]Lu-PSMA in Men With Metastatic Castration Resistance Prostate Cancer",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07231458",
+    "title": "A Study to Test a New Immunotherapy, ABX-001, Alone and in Combination With the Marketed Drug, Pembrolizumab, for the Treatment of Tumors Previously Treated With Other Therapies",
+    "conditions": [
+      "Advanced Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT00588068",
+    "title": "Molecular Characterization of Neuroblastic Tumor: Correlation With Clinical Outcome",
+    "conditions": [
+      "Neuroblastoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04657068",
+    "title": "A Study of ART0380 for the Treatment of Advanced or Metastatic Solid Tumors",
+    "conditions": [
+      "Advanced Cancer",
+      "Metastatic Cancer",
+      "Ovarian Cancer",
+      "Primary Peritoneal Cancer",
+      "Fallopian Tube Cancer",
+      "Endometrial Cancer",
+      "Metastatic Colorectal Cancer",
+      "Pancreatic Ductal Adenocarcinoma",
+      "Acinar Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06330350",
+    "title": "Qualitative Study in Patients With Genodermatoses and Healthcare Professionals on Reproductive Counselling",
+    "conditions": [
+      "Quality of Life",
+      "Ichthyosis",
+      "Palmoplantar Keratoses",
+      "Epidermolysis Bullosa",
+      "Ectodermal Dysplasia",
+      "Basal Cell Nevus Syndrome",
+      "Birt-Hogg-Dube Syndrome",
+      "Tuberous Sclerosis",
+      "Cutis Laxa",
+      "Albinism"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05248750",
+    "title": "Genetic, Microenvironmental, and Immunological Factors in Unresectable Pancreatic Ductal Adenocarcinoma",
+    "conditions": [
+      "Pancreas Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06446050",
+    "title": "Chemokine and Co-stimulatory Molecule-modified Mesenchymal Stem Cells for the Treatment of Advanced Colorectal Cancer",
+    "conditions": [
+      "Advanced Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06480110",
+    "title": "Ebastine in Combination With Docetaxel as a Treatment for Castration-resistant Metastatic Prostate Cancer",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07416513",
+    "title": "Digital Solutions for bEtter cAre",
+    "conditions": [
+      "Cancer Diagnosis"
+    ],
+    "min_age": "12 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06357182",
+    "title": "Iadademstat in Combination With Azacitidine and Venetoclax in Treating Newly Diagnosed Acute Myeloid Leukemia",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "Myelodysplastic Syndrome/Acute Myeloid Leukemia"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06249438",
+    "title": "A Study of C-CAR168 in the Treatment of Autoimmune Diseases Refractory to Standard Therapy",
+    "conditions": [
+      "Systemic Lupus Erythematosus (SLE)",
+      "Immune-mediated Necrotizing Myopathy (IMNM)",
+      "Neuromyelitis Optica Spectrum Disorders (NMOSD)",
+      "Multiple Sclerosis (MS)",
+      "Myasthenia Gravis",
+      "Systemic Sclerosis (SSc)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06200155",
+    "title": "Psilocybin-Assisted Psychotherapy in Patients With Advanced Cancer on Maintenance Therapy",
+    "conditions": [
+      "Depression, Anxiety",
+      "Psilocybin-Assisted Psychotherapy",
+      "Advanced Cancer"
+    ],
+    "min_age": "25 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06471738",
+    "title": "Combination of Zanubrutinib, Rituximab and Venetoclax in Patients With Previously Untreated Follicular Lymphoma",
+    "conditions": [
+      "Ann Arbor Stage II Follicular Lymphoma",
+      "Grade 1 Follicular Lymphoma",
+      "Ann Arbor Stage III Follicular Lymphoma",
+      "Ann Arbor Stage IV Follicular Lymphoma",
+      "Grade 2 Follicular Lymphoma",
+      "Grade 3a Follicular Lymphoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07321626",
+    "title": "Romiplostim N01 for Platelet Recovery After Haploidentical HSCT",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "MDS (Myelodysplastic Syndrome)",
+      "Delayed Platelet Engraftment",
+      "HSCT"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05437315",
+    "title": "GD2/PSMA Bi-specific CAR-T Cell Therapy",
+    "conditions": [
+      "Solid Tumor"
+    ],
+    "min_age": "1 Year",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06111417",
+    "title": "Use of an Ultra-rapid BRCA1/2 Status Screening Test in Diagnostic and Theranostic Indication: Performance and Interest for Patients and Practitioners",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06350097",
+    "title": "Phase III, Open-label Study of First-line Osimertinib With or Without Datopotamab Deruxtecan for EGFRm Locally Advanced or Metastatic Non-small Cell Lung Cancer",
+    "conditions": [
+      "Non-small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06409013",
+    "title": "Evaluation of Tumor Resection Guided by Intraoperative Indocyanine Green Dye Fluorescence Angiography in Patients With Sarcoma",
+    "conditions": [
+      "Bone Sarcoma",
+      "Soft Tissue Sarcoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06733948",
+    "title": "ChemoRT With and Without Dental Stent for Taste Protection in NPC Patients",
+    "conditions": [
+      "Nasopharyngeal Carcinoma"
+    ],
+    "min_age": "21 Years",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06789926",
+    "title": "The Impact of Multimedia Psychological Support Platform and Acceptance and Commitment Therapy Workshops of Oncology Nurses",
+    "conditions": [
+      "Oncology Nurse",
+      "Psychological Support",
+      "Acceptance and Commitment Therapy"
+    ],
+    "min_age": "20 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05231655",
+    "title": "Ex VIvo DEtermiNed Cancer Therapy",
+    "conditions": [
+      "Bladder Cancer",
+      "Kidney Cancer",
+      "Melanoma",
+      "Sarcoma",
+      "Glioblastoma",
+      "Head and Neck Cancer"
+    ],
+    "min_age": "16 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06224855",
+    "title": "A Study of DXC006 in Patients With Advanced Solid Tumors and Hematologic Malignancies",
+    "conditions": [
+      "Advanced Solid Tumors",
+      "Hematological Malignancies"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07104955",
+    "title": "Salutare One Referral Software Impact on Multi-Disciplinary Team (MDT) Meetings Effectiveness and Safety",
+    "conditions": [
+      "Cancer (Solid Tumors)",
+      "Sarcoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04019678",
+    "title": "Breast Cancer: Axillary Conservation After Neoadjuvant Chemotherapy in Micro Metastatic Sentinel Lymph Nodes.",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06485778",
+    "title": "A Study of Radiation Therapy After Surgery in People With Oral Tongue Squamous Cell Carcinoma",
+    "conditions": [
+      "Oral Tongue Squamous Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05386108",
+    "title": "Study of Abemaciclib and Elacestrant in Participants With Brain Metastasis Due to ER+/HER-2- Breast Cancer",
+    "conditions": [
+      "Breast Neoplasms",
+      "Brain Neoplasms",
+      "Neoplasms by Site",
+      "Neoplasms",
+      "Breast Diseases",
+      "Central Nervous System Neoplasms",
+      "Brain Diseases",
+      "Central Nervous System Diseases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05219695",
+    "title": "Medical Imaging and Thermal Treatment for Breast Tumors Using Harmonic Motion Imaging (HMI)",
+    "conditions": [
+      "Fibroadenoma",
+      "Breast Cancer Stage I"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06010875",
+    "title": "A Clinical Research About CD70-targeted CAR-T in the Treatment of CD70-positive Advanced/Metastatic Solid Tumors",
+    "conditions": [
+      "Renal Cell Carcinoma",
+      "Ovarian Cancer",
+      "Cervix Cancer",
+      "Metastatic Cancer",
+      "Advanced Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06607757",
+    "title": "Capivasertib Plus Fulvestrant vs. Fulvestrant in Primary High-risk Lobular Breast Cancer",
+    "conditions": [
+      "CCCA Assessed by Ki67 Drop Below <2.7% From Baseline"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT03450512",
+    "title": "Incidence of Neutropenic Enterocolitis Study in Acute Myeloid Leukemia Patients During Intensive Therapy",
+    "conditions": [
+      "Acute Myeloid Leukemia"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03723928",
+    "title": "S1703 Serum Tumor Marker Directed Disease Monitoring in Patients With Hormone Receptor Positive Her2 Negative Metastatic Breast Cancer",
+    "conditions": [
+      "Anatomic Stage IV Breast Cancer AJCC v8",
+      "Estrogen Receptor Positive",
+      "HER2/Neu Negative",
+      "Progesterone Receptor Positive",
+      "Prognostic Stage IV Breast Cancer AJCC v8",
+      "Elevated CA15-3 or CEA or CA27-29"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05257967",
+    "title": "CSF Analysis in EGFR Mutant Non-Small Cell Lung Cancer With Leptomeningeal Disease",
+    "conditions": [
+      "EGFR Activating Mutation",
+      "Leptomeningeal Metastasis",
+      "Non Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05763992",
+    "title": "Targeting Triple Negative BREAst Cancer Metabolism With a Combination of Chemoimmunotherapy and a FASTing-like Approach in the Preoperative Setting: the BREAKFAST 2 Trial",
+    "conditions": [
+      "Breast Cancer",
+      "Triple Negative Breast Cancer",
+      "Dietary Exposure",
+      "Fasting"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06947044",
+    "title": "Biomarkers in Patients With Anemia-Induced Thrombocytopenic Bleeding",
+    "conditions": [
+      "Acute Leukemia",
+      "Acute Myeloid Leukemia (AML)",
+      "Acute Lymphocytic Leukaemia"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06282809",
+    "title": "The HistoSonics Edison\u2122 System for Treatment of Pancreatic Adenocarcinoma Using Histotripsy",
+    "conditions": [
+      "Pancreas Cancer",
+      "Adenocarcinoma of the Pancreas",
+      "Pancreatic Cancer",
+      "Tumor of Pancreas"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07214532",
+    "title": "Signatera-Guided CDK4/6 Inhibitor Therapy in Breast Cancer",
+    "conditions": [
+      "Breast Neoplasms",
+      "Carcinoma, Ductal, Breast",
+      "Receptors, Estrogen (for ER-positive Requirement)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02479698",
+    "title": "Cytotoxic T Lymphocytes in Treating Patients With Malignancies With BK and/or JC Virus",
+    "conditions": [
+      "Acquired Immunodeficiency Syndrome",
+      "BK Virus Infection",
+      "Human Immunodeficiency Virus",
+      "JC Virus Infection",
+      "Malignant Neoplasm",
+      "Merkel Cell Carcinoma",
+      "Merkel Cell Polyomavirus Infection",
+      "Viral Encephalitis"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05414045",
+    "title": "Autologous Testicular Tissue Transplantation",
+    "conditions": [
+      "Cancer",
+      "Sickle Cell Thalassemia",
+      "Hematologic Diseases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "50 Years",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07078500",
+    "title": "Orelabrutinib Combined With Pola-R-CHP Regimen for the Treatment of Untreated Non-GCB Diffuse Large B-Cell Lymphoma",
+    "conditions": [
+      "Diffuse Large B-Cell Lymphoma (DLBCL)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06013111",
+    "title": "An Exploratory Clinical Study Evaluating the Safety and Efficacy of Anti-CEA-CAR-T Cells Injection in Patients With CEA+ Locally Advanced and/or Metastatic Solid Tumors",
+    "conditions": [
+      "Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05266534",
+    "title": "The Effect of Intramyometrial Injection of Terlipressin Versus Carbitocin on Hemoglobin and Blood Loss During Open Myomectomy Operations Without Using Haemostatic Tourniquets",
+    "conditions": [
+      "Myoma"
+    ],
+    "min_age": "16 Years",
+    "max_age": "40 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06090864",
+    "title": "ATLCAR.CD30.CCR4 for CD30+ HL ATLCAR.CD30.CCR4 Cells",
+    "conditions": [
+      "Hodgkin Lymphoma",
+      "Relapse",
+      "Refractory"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06807164",
+    "title": "Serratus Plane Block (SPB) Versus Capsa\u00efcine Versus Botox-A for Chronic Neuropathic Pain in Post-mastectomy Syndrome",
+    "conditions": [
+      "Post-Mastectomy Neuropathic Pain Syndrome"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06915753",
+    "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+    "conditions": [
+      "Metastatic Hepatocellular Carcinoma",
+      "Solid Tumors",
+      "Solid Tumor, Adult",
+      "FGFR Gene Amplification",
+      "FGFR Gene Alterations",
+      "FGFR3 Gene Alteration",
+      "FGFR3 Gene Mutation",
+      "Advanced Solid Tumors",
+      "FGFR4 Gene Mutation",
+      "FGFR4 Gene Fusions",
+      "FGF19 Gene Amplification",
+      "FGF19 Gene Overexpression",
+      "FGFR3 Gene Fusions",
+      "Locally Advanced Unresectable Hepatocellular Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05250037",
+    "title": "The Longitudinal Impact of Respiratory Viruses on Bronchiolitis Obliterans Syndrome After Allogeneic Hematopoietic Cell Transplantation (The RV-BOS Study)",
+    "conditions": [
+      "Bronchiolitis Obliterans Syndrome",
+      "Hematopoietic and Lymphoid Cell Neoplasm"
+    ],
+    "min_age": "8 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07166445",
+    "title": "Deep Learning for Automated Discrimination Between Stage T1-T2 and T3 Renal Cell Carcinoma on Contrast-Enhanced CT",
+    "conditions": [
+      "Carcinoma, Renal Cell",
+      "Diagnostic Imaging",
+      "Pathology",
+      "Deep Learning"
+    ],
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06859775",
+    "title": "SHR-A1811 Combination Regimen for the Treatment of Recurrent or Metastatic Cervical Cancer",
+    "conditions": [
+      "Recurrent or Metastatic Cervical Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06086457",
+    "title": "PD-1 Inhibitor Plus Chemotherapy With or Without Radiotherapy in Patients With Metastatic Esophageal Cancer",
+    "conditions": [
+      "Esophageal Neoplasms"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06158412",
+    "title": "All-trans Retinoic Acid in Combination With a KPD Regimen for the Treatment of Refractory/Relapsed Multiple Myeloma",
+    "conditions": [
+      "Multiple Myeloma in Relapse",
+      "Multiple Myeloma, Refractory"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06227728",
+    "title": "Analysis of PD-L1, TMB, MSI and ctDNA Dynamics to Predict and Monitor Response to Immunotherapy in Metastatic Cancer.",
+    "conditions": [
+      "Non Small Cell Lung Cancer",
+      "Breast Cancer",
+      "Colorectal Cancer",
+      "Gastric Cancer",
+      "Liver Cancer",
+      "Advanced Cancer",
+      "Immune Checkpoint Inhibitor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06441565",
+    "title": "Fruquintinib With or Without HAI-FOLFOX for Refractory Colorectal Cancer",
+    "conditions": [
+      "Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06043765",
+    "title": "Reducing Cognitive Impairment in Glioma with Repetitive Transcranial Magnetic Stimulation and Cognitive Strategy Training",
+    "conditions": [
+      "Cognitive Impairment",
+      "Glioma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04271644",
+    "title": "BCMA-Targeted CAR-T Cell Therapy for Relapsed/Refractory Multiple Myeloma and Plasma Cell Disease",
+    "conditions": [
+      "Multiple Myeloma",
+      "Neoplasm, Plasma Cell",
+      "Multiple Myeloma in Relapse"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06302634",
+    "title": "Cardio-Oncology Rehabilitation Care Process",
+    "conditions": [
+      "Cardio-Oncology",
+      "Rehabilitation",
+      "Cardiovascular Diseases",
+      "Exercise"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03340129",
+    "title": "Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)",
+    "conditions": [
+      "Melanoma Stage Iv"
+    ],
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06388031",
+    "title": "ICI Rechallenge for Advanced NSCLC With Long-Term Response to First-Line ICI",
+    "conditions": [
+      "Non-small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06273345",
+    "title": "OLIGOS: Impact of Treatment on Primary Tumour in Patients With Newly Diagnosed Oligometastatic Neoplasia of the Prostate",
+    "conditions": [
+      "Oligometastatic Prostate Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06830239",
+    "title": "Phase II Study of Neoadjuvant Dostarlimab in Patients With Untreated T3-4N0-2 or Stage III pMMR/MSS Resectable Colon Cancer",
+    "conditions": [
+      "Colon Cancer Stage III"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06193239",
+    "title": "Diagnostic Accuracy Study for OWL-EVO1 As a Lung Cancer EVOC\u00ae Probe (Evolution Phase 2)",
+    "conditions": [
+      "Lung Cancer"
+    ],
+    "min_age": "45 Years",
+    "max_age": "85 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07311577",
+    "title": "Disitamab Vedotin Combined With Platinum and Bevacizumab as First-Line and Maintenance Therapy for HER2-Expressing, HRD-Negative High-Risk Ovarian Cancer: A Multicenter, Non-Randomized, Single-Arm Phase II Clinical Study",
+    "conditions": [
+      "Ovarian Cancer Metastatic",
+      "Ovarian Cancer Metastatic Recurrent"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07148830",
+    "title": "Mesopancreatic Excision for Pancreatic Duct Adenocarcinoma.",
+    "conditions": [
+      "Pancreatic Ductal Adenocarcinoma",
+      "Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07126665",
+    "title": "A Study of MHB088C Combined With MHB039A in Patients With Advanced Malignant Solid Tumors",
+    "conditions": [
+      "Advanced Malignant Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05810467",
+    "title": "The Active Surveillance Study",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06169371",
+    "title": "Abemaciclib Dose Escalation to Maintain Intensity (ADE-MI)",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05810571",
+    "title": "Comparison of Postoperative Analgesic Efficacy of the Erector Spina Plane Block and Quadratus Lumborum Block in Open Nephrectomy: a Prospective Randomized Clinical Study",
+    "conditions": [
+      "Renal Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "85 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07102394",
+    "title": "Feasibility and Tolerability of IMLYGIC for the Treatment of Cutaneous Neurofibromas in Adults With NF1",
+    "conditions": [
+      "NF1",
+      "Neurofibromatosis",
+      "Cutaneous Neurofibroma",
+      "Neurofibroma",
+      "Von Recklinghausen Disease",
+      "Neurofibromas"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06102902",
+    "title": "Testing the Addition of Anti-cancer Drug, ZEN003694, to the Usual Chemotherapy Treatment, Cetuximab Plus Encorafenib, for Colorectal Cancer",
+    "conditions": [
+      "Metastatic Colorectal Adenocarcinoma",
+      "Recurrent Colorectal Adenocarcinoma",
+      "Refractory Colorectal Adenocarcinoma",
+      "Stage IV Colorectal Cancer AJCC v8"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT02829437",
+    "title": "Observational Study on Endometrial Stromal Tumors",
+    "conditions": [
+      "Endometrial Stromal Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04165772",
+    "title": "Study of Induction PD-1 Blockade in Subjects With Locally Advanced Mismatch Repair Deficient Solid Tumors",
+    "conditions": [
+      "Rectal Adenocarcinoma",
+      "Clinical Stage: Stage II (T3-4, N-)",
+      "Stage III (Any T, N+)",
+      "Solid Tumor",
+      "Solid Tumor, Adult"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06059495",
+    "title": "Watch-and-Wait Approach With Dostarlimab in Localized dMMR/MSI-H Gastric Cancer: GERCOR Phase II Study",
+    "conditions": [
+      "Adenocarcinoma - GEJ",
+      "Gastric Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06649695",
+    "title": "A Phase II Trial of Teclistamab in Participants With Previously Treated Immunoglobulin Light-chain (AL) Amyloidosis",
+    "conditions": [
+      "AL Amyloidosis"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06479239",
+    "title": "Study of EGFRBi Armed Fresh PBMC in Metastatic or Unresectable Pancreatic Cancer",
+    "conditions": [
+      "Pancreas Cancer",
+      "Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06293677",
+    "title": "Adjustment of Antibiotic Dosage in Pediatric Oncology Patients With Febrile Neutropenia and Augmented Renal Clearance",
+    "conditions": [
+      "Febrile Neutropenia"
+    ],
+    "min_age": "61 Days",
+    "max_age": "18 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05065801",
+    "title": "Efficacy of Gembrax Followed by Folfirinox Versus Folfirinox Alone in First Metastatic Line Pancreatic Cancer Patients",
+    "conditions": [
+      "Metastatic Pancreatic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04992728",
+    "title": "Prostate Assessment with Restriction Spectrum Imaging (RSI) MRI",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07304128",
+    "title": "A Study of PLB-002 in Advanced Solid Tumors",
+    "conditions": [
+      "Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06177067",
+    "title": "Study of Revumenib, Azacitidine, and Venetoclax in Pediatric and Young Adult Patients With Refractory or Relapsed Acute Myeloid Leukemia",
+    "conditions": [
+      "Refractory Acute Myeloid Leukemia",
+      "Relapsed Acute Myeloid Leukemia",
+      "Acute Leukemia of Ambiguous Lineage"
+    ],
+    "min_age": "1 Year",
+    "max_age": "30 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06445400",
+    "title": "A Study of BL-M07D1, BL-M07D1+Pertuzumab and BL-M07D1+Pertuzumab+Docetaxel in Patients With Unresectable Locally Advanced or Metastatic HER2-positive Breast Cancer",
+    "conditions": [
+      "HER2-positive Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06797336",
+    "title": "A Study of PT0253 in Participants With KRAS G12D Mutated Advanced Solid Tumors",
+    "conditions": [
+      "Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06634394",
+    "title": "APVO436 Phase 1b/2 Study in Patients With Newly Diagnosed AML",
+    "conditions": [
+      "Acute Myeloid Leukemia (AML)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05784922",
+    "title": "Health Opportunities and Promoters of Equitable Screening for Lung Cancer",
+    "conditions": [
+      "Lung Cancer",
+      "Smoking Behaviors",
+      "Diagnosis"
+    ],
+    "min_age": "50 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05773651",
+    "title": "Rare Tumours in Children and Adolescents (STEP)",
+    "conditions": [
+      "Rare Diseases"
+    ],
+    "min_age": "1 Day",
+    "max_age": "18 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04104945",
+    "title": "p16+ Oropharyngeal Cancer Radiation Optimization Trial Reducing Elective Treatment Volumes (PROTEcT)",
+    "conditions": [
+      "Squamous Cell Carcinoma of the Oropharynx"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05937295",
+    "title": "FusionVAC22_01: Fusion Transcript-based Peptide Vaccine Combined with Immune Checkpoint Inhibition",
+    "conditions": [
+      "Fibrolamellar Hepatocellular Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06250595",
+    "title": "European Rare Blood Disorders Platform (ENROL)",
+    "conditions": [
+      "Anemia",
+      "Bone Marrow Failure",
+      "Bleeding Disorder",
+      "Iron Metabolism Disorders",
+      "Myeloma",
+      "Lymphoid Neoplasm",
+      "Myeloma, Malignant",
+      "Leukemia",
+      "Anemia, Sickle Cell",
+      "Thalassemia",
+      "Blood Cancer",
+      "Red Cell Membrane and Enzyme Abnormalities"
+    ],
+    "min_age": "",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06532539",
+    "title": "Cadonilimab With Chemoradiation for Recurrent and Oligometastatic Endometrial Carcinoma",
+    "conditions": [
+      "Endometrial Neoplasms",
+      "Neoplasm Recurrence, Local",
+      "Neoplasm Metastasis"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06663228",
+    "title": "Rapid Histologic Assessment for Stereotactic Breast Biopsy: Enhancing Early Detection With Miniature Mass Spectrometry and AI",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "20 Years",
+    "max_age": "99 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06630234",
+    "title": "A Master Protocol to Evaluate DCC-3009 in Gastrointestinal Stromal Tumor (GIST)",
+    "conditions": [
+      "Gastrointestinal Stromal Tumor (GIST)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06419634",
+    "title": "Study of BMS-986497 (ORM-6151) as a Monotherapy, in Double and Triple Combination With Azacitidine and Venetoclax in Participants With Relapsed or Refractory Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+    "conditions": [
+      "Acute Myeloid Leukemia",
+      "Myelodysplastic Syndrome"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05398302",
+    "title": "Image-Guided Biopsies to Identify Mechanisms of Resistance in Patients With Metastatic Castration Resistant Prostate Cancer Treated With 177Lu-PSMA Radioligand Therapy",
+    "conditions": [
+      "Castration-Resistant Prostate Carcinoma",
+      "Metastatic Prostate Carcinoma",
+      "Stage IV Prostate Cancer American Joint Committee on Cancer (AJCC) v8",
+      "Stage IVA Prostate Cancer AJCC v8",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06658145",
+    "title": "Safety and Efficacy of Using a Novel Full Visual Access Platform System in Transvaginal Hysterectomy",
+    "conditions": [
+      "Uterine Myoma",
+      "Surgery, Laparoscopic"
+    ],
+    "min_age": "",
+    "max_age": "60 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05718895",
+    "title": "A Study of ATG-022 in Patients With Advanced/Metastatic Solid Tumors",
+    "conditions": [
+      "Advanced/Metastatic Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06943612",
+    "title": "Colorectal Resections in Patients With Retroperitoneal Sarcoma",
+    "conditions": [
+      "Sarcoma, Soft Tissue",
+      "Retroperitoneal Sarcoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05839912",
+    "title": "Excision of Lymph Node Trial (EXCILYNT) (Mel69)",
+    "conditions": [
+      "Melanoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04733430",
+    "title": "LALUCA Research Platform A Prospective Analysis of Lung Cancer Diagnosis and Management in Clinical Practice",
+    "conditions": [
+      "Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "125 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05556928",
+    "title": "Cancer and Aging Resilience Evaluation in Older Adults With Hematologic Malignancies: The CARE-Heme Registry",
+    "conditions": [
+      "Multiple Myeloma",
+      "Amyloidosis",
+      "Plasma Cell Leukemia"
+    ],
+    "min_age": "50 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04612075",
+    "title": "The EMINENCE Study - PET/MR Imaging of Head Neck Cancer",
+    "conditions": [
+      "Head and Neck Neoplasms"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06832228",
+    "title": "Study of Pomalidomide Combination with Rituximab and Anti-PD-1 Antibody \uff08PPR\uff09 in Third or Later Line Therapy of DLBCL",
+    "conditions": [
+      "Diffuse Large B-cell Lymphoma (DLBCL)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06837792",
+    "title": "Trastuzumab Deruxtecan vs Endocrine Therapy in Low-HER2 HR+ Advanced Breast Cancer",
+    "conditions": [
+      "Hormone Receptor(HR)-Positive, Low HER2 Advanced Breast Cancer Patients (HER2 IHC 1+ or 2+ & ISH Negative)"
+    ],
+    "min_age": "19 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05517811",
+    "title": "Pre- and Post-operative TEG Indices in Patients With or Without Adenocarcinoma Undergoing Surgical Resection",
+    "conditions": [
+      "Liver Cancer",
+      "Esophageal Cancer",
+      "Colorectal Cancer",
+      "Lung Adenocarcinoma",
+      "Control",
+      "Pancreas Cancer",
+      "Biliary Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03439371",
+    "title": "Micro-transplantation in Elderly Patients With Acute Myeloid Leukemia",
+    "conditions": [
+      "Acute Myeloid Leukemia"
+    ],
+    "min_age": "60 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06282575",
+    "title": "Efficacy and Safety of Zanidatamab With Standard-of-care Therapy Against Standard-of-care Therapy for Advanced HER2-positive Biliary Tract Cancer",
+    "conditions": [
+      "Biliary Tract Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07057375",
+    "title": "The Effect of Pulsed Electromagnetic Field Therapy on Muscle Mass and Muscle Strength in Prostate Cancer Patients Treated With Androgen Deprivation Therapy",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT07477912",
+    "title": "Anti BCMA CAR- T Cell Therapy for Adults With Relapsed or Refractory Multiple Myeloma",
+    "conditions": [
+      "Multiple Myeloma Refractory"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05691465",
+    "title": "Testing the Safety and Effectiveness of Radiation-based Treatment (Lutetium Lu 177 Dotatate) for Metastatic Prostate Cancer That Has Neuroendocrine Cells",
+    "conditions": [
+      "Metastatic Prostate Adenocarcinoma With Neuroendocrine Differentiation",
+      "Metastatic Prostate Neuroendocrine Carcinoma",
+      "Metastatic Prostate Small Cell Neuroendocrine Carcinoma",
+      "Stage IV Prostate Cancer AJCC v8"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06239467",
+    "title": "First-in-Human Study of OKI-219 in Advanced Solid Tumors and Advanced Breast Cancer",
+    "conditions": [
+      "Advanced Cancer",
+      "Breast Cancer",
+      "Advanced Solid Tumors",
+      "PI3K Gene Mutation"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT03686709",
+    "title": "Y90 Radioembolization Dose Delivery and Radiation Exposure Assessment",
+    "conditions": [
+      "Hepatocellular Carcinoma",
+      "Radiation Exposure"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06086132",
+    "title": "Detection and Prevention of Cancer-Related Cardiovascular Toxicity Registry",
+    "conditions": [
+      "Cancer Related Cardiovascular Toxicity"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05693363",
+    "title": "Perioperative Specimen Imaging Using High-resolution 18F-FDG-PET-CT During Thoracic Surgery: a Pilot Study",
+    "conditions": [
+      "Lung Neoplasms",
+      "PET-CT Specimen Imager"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06222801",
+    "title": "The 1st Tumor CytokinoTherapy Database (TCTD-1)",
+    "conditions": [
+      "Oncology"
+    ],
+    "min_age": "18 Years",
+    "max_age": "95 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06426628",
+    "title": "Clinical Utility of Management of Patients With Pulmonary Nodules Using the Percepta Nasal Swab Classifier",
+    "conditions": [
+      "Pulmonary Nodule, Solitary",
+      "Lung Cancer"
+    ],
+    "min_age": "29 Years",
+    "max_age": "85 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06769334",
+    "title": "Preparing for Life and Academics for Young Childhood Cancer Survivors",
+    "conditions": [
+      "Childhood Cancer"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06666634",
+    "title": "Validation of ICG-99mTc-nanoscan as Hybrid Tracer for Sentinel Node Biopsy",
+    "conditions": [
+      "Penile Cancer",
+      "Melanoma",
+      "Oral Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06574009",
+    "title": "Better Options for Chronic Cancer Pain",
+    "conditions": [
+      "Chronic Pain",
+      "Cancer Survivor",
+      "Opioid Dependence"
+    ],
+    "min_age": "18 Years",
+    "max_age": "99 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06691698",
+    "title": "Evaluation of CO-OP for Adolescents With Mild Intellectual Disability",
+    "conditions": [
+      "Intellectual Disability, Mild"
+    ],
+    "min_age": "13 Years",
+    "max_age": "17 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06675513",
+    "title": "Autologous CAR-T Cells (WD-01) for Metastatic Colorectal Cancer",
+    "conditions": [
+      "CRC (Colorectal Cancer)",
+      "Metastatic Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06525220",
+    "title": "A Phase 3 Study to Evaluate Petosemtamab Plus Pembrolizumab vs Pembrolizumab in First-line Treatment of Head and Neck Cancer (LiGeR - HN1)",
+    "conditions": [
+      "Head and Neck Squamous Cell Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06778382",
+    "title": "Delayed Systemic Therapy Following Destructive Local Treatment of Pulmonary Oligometastases After No Evidence of Disease (NED) in Colorectal Cancer.",
+    "conditions": [
+      "Colorectal Neoplasms Malignant"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06574373",
+    "title": "Identification of New Theranostic Biomarkers of Pancreatic Tumor Progression",
+    "conditions": [
+      "IPMN, Pancreatic"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07208773",
+    "title": "A Study of YL201 and Ivonescimab (AK112) in Advanced Solid Tumors",
+    "conditions": [
+      "Advanced Solid Tumors",
+      "Non Small Cell Lung Cancer",
+      "Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07058454",
+    "title": "Multicenter Prospective Observational Study of Cardiotoxicity in Patients Receiving Targeted Cancer Therapies",
+    "conditions": [
+      "Cancer;Cardiovascular;Adverse Events",
+      "Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05406856",
+    "title": "PROTECT: On-line Adaptive Proton Therapy for Cervical Cancer",
+    "conditions": [
+      "Uterine Cervical Neoplasms",
+      "Locally Advanced Cervical Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06379360",
+    "title": "Maintenance Therapy of Hypomethylating Agent (HMA) in Favorable Risk Acute Myeloid Leukemia (AML) Patients",
+    "conditions": [
+      "Acute Myeloid Leukemia"
+    ],
+    "min_age": "16 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06719362",
+    "title": "A Clinical Trial to Evaluate the Safety, Tolerability and Clinical Efficacy of M3T01 Monotherapy and in Combination With Pembrolizumab and Other Systemic Therapies",
+    "conditions": [
+      "Advanced Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04725903",
+    "title": "Proton Radiation Therapy for the Treatment of Patients With High Risk Prostate Cancer",
+    "conditions": [
+      "Stage III Prostate Cancer AJCC v8",
+      "Stage IIIA Prostate Cancer AJCC v8",
+      "Stage IIIB Prostate Cancer AJCC v8",
+      "Stage IIIC Prostate Cancer AJCC v8"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT05561842",
+    "title": "Tablet-based Mobile Health Ultrasound for Point-of-care Breast Cancer Diagnosis in Nigeria (Mobile Health: Technology and Outcomes in Low and Middle-Income Countries)",
+    "conditions": [
+      "Breast Cancer",
+      "Breast Cancer Female"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT04371042",
+    "title": "PROtocol of Metabolic and Cryptogenic livEr Disease regisTry for intEgration of Omic Studies",
+    "conditions": [
+      "NAFLD - Nonalcoholic Fatty Liver Disease",
+      "Diabetes",
+      "Obesity",
+      "Metabolic Syndrome",
+      "Cirrhosis",
+      "Liver Cancer",
+      "NASH - Nonalcoholic Steatohepatitis",
+      "HCC - Hepatocellular Carcinoma",
+      "Fatty Liver"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06783569",
+    "title": "A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors",
+    "conditions": [
+      "Solid Tumors",
+      "Gastric Cancer",
+      "Esophagogastric Juction Cancer",
+      "Colorectal Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05866783",
+    "title": "Serum Glycomics as Prognostic and Diagnostic Biomarkers of Disease Recurrence in Liver Transplant Recipients With Hepatocellular Carcinoma",
+    "conditions": [
+      "Prognostic Biomarker",
+      "Liver Transplantation",
+      "Diagnostic Biomarker",
+      "Hepatocellular Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06752941",
+    "title": "LOW-PV Continuation",
+    "conditions": [
+      "Polycythemia Vera"
+    ],
+    "min_age": "18 Years",
+    "max_age": "100 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT01521741",
+    "title": "Prospective Screening for Breast Cancer-related Lymphedema",
+    "conditions": [
+      "Lymphedema"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06209294",
+    "title": "Phase II Study on Neoadjuvant Therapy of AK104 Combined With Nab-paclitaxel/Carboplatin in Fertility Preserving Surgery",
+    "conditions": [
+      "Neoadjuvant Immunotherapy",
+      "Cervical Cancer",
+      "Fertility-sparing Surgery"
+    ],
+    "min_age": "18 Years",
+    "max_age": "45 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT07116018",
+    "title": "Psychoeducation for AlloHCT Caregivers",
+    "conditions": [
+      "Cancer",
+      "Caregivers",
+      "Stem Cell Transplant",
+      "Psychoeduction",
+      "Coping"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06155318",
+    "title": "68Ga-DOTATOC PET for the Evaluation of Gastroenteropancreatic Neuroendocrine Tumours",
+    "conditions": [
+      "Gastroenteropancreatic Neuroendocrine Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04968990",
+    "title": "Treatment of Newly Diagnosed Patient's With Wilm's Tumor Requiring Abdominal Radiation Delivered With Proton Beam Irradiation",
+    "conditions": [
+      "Wilms Tumor"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07315113",
+    "title": "Study of NXP900 With Osimertinib in Subjects With Advanced, EGFR-Mutated Non-Small Cell Lung Cancer",
+    "conditions": [
+      "EGFR Mutation Positive Non-small Cell Lung Cancer",
+      "EGFR Mutated Non-small Cell Lung Cancer Patients"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05134142",
+    "title": "Quality of Life and Function of Patients With Pelvic Tumors After Undergoing Hemipelvectomy",
+    "conditions": [
+      "Malignant Primary Pelvic Neoplasm"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05017142",
+    "title": "Swiss Pediatric Inflammatory Brain Disease Registry (Swiss-Ped-IBrainD)",
+    "conditions": [
+      "Optic Neuritis",
+      "Transverse Myelitis",
+      "Acute Disseminated Encephalomyelitis",
+      "Multiple Sclerosis",
+      "Neuromyelitis Optica Spectrum Disorder",
+      "Anti-NMDAR Encephalitis",
+      "Anti-GAD65 Associated Autoimmune Encephalitis",
+      "Anti-AMPAR-1/2 Associated Autoimmune Encephalitis",
+      "Anti-Lgi-1 Associated Autoimmune Encephalitis",
+      "Anti-CASPR-2 Associated Autoimmune Encephalitis",
+      "Anti-GABAR-1/2 Associated Autoimmune Encephalitis",
+      "Onconeuronal Antibody (Hu, Ri, Yo, Amphiphysin, CRMP-5, Ma-1, Ma-2, SOX-1) Associated Autoimmune Encephalitis",
+      "Hashimoto Encephalitis",
+      "CNS Vasculitis",
+      "CNS Sarcoidosis",
+      "CNS Lupus",
+      "Rasmussen Encephalitis",
+      "Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD)"
+    ],
+    "min_age": "",
+    "max_age": "36 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06043973",
+    "title": "Almonertinib Combined With Anlotinib as First-line Treatment for Advanced Non-small Cell Lung Cance",
+    "conditions": [
+      "Advanced Non-small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06288373",
+    "title": "Neoadjuvant Chemoimmunotherapy Versus Concurrent Chemoradiotherapy for LACC",
+    "conditions": [
+      "Cervical Cancer",
+      "Locally Advanced Cervical Cancer",
+      "Concurrent Chemoradiotherapy",
+      "Neoadjuvant Chemoimmunotherapy"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06495554",
+    "title": "Danish Vulva Cancer Recurrence Study",
+    "conditions": [
+      "Vulva Cancer",
+      "Vulva Neoplasm",
+      "Vulvar Cancer",
+      "Vulva Disease",
+      "Vulvar Neoplasms",
+      "Vulvar Diseases",
+      "PROM",
+      "Circulating Tumor DNA",
+      "Survivorship"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT06668454",
+    "title": "Chemoimmunotherapy Followed by Surgery for Oligometastatic Esophagogastric Cancer: (TORO Protocol)",
+    "conditions": [
+      "Esophageal Cancer",
+      "Gastric Cancer",
+      "Oligometastatic Disease"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06660654",
+    "title": "A Study of Raludotatug Deruxtecan in Participants With Advanced/Metastatic Solid Tumors (REJOICE-PanTumor01)",
+    "conditions": [
+      "Advanced Solid Tumor",
+      "Metastatic Solid Tumors"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07285694",
+    "title": "AB-3028, a Programmable Circuit T Cell Therapy in Patients With Castration Resistant Prostate Cancer (CRPC)",
+    "conditions": [
+      "Metastatic Castration Resistant Prostate Cancer (mCRPC)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT01499394",
+    "title": "Caris Biorepository Research Protocol",
+    "conditions": [
+      "Cancer",
+      "Early Detection of Cancer",
+      "Minimal Residual Disease"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06120374",
+    "title": "Adjuvant Radioimmunotherapy Compared With Adjuvant Chemotherapy for UTUC",
+    "conditions": [
+      "Urothelial Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07071090",
+    "title": "A Study of DC50292A Tablet in Patients With MTAP-deleted Advanced or Metastatic Solid Tumors",
+    "conditions": [
+      "Solid Tumor Malignancies"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05401110",
+    "title": "Study of Osimertinib With Carotuximab in Advanced, EGFR-mutated Non-Small Cell Lung Cancer",
+    "conditions": [
+      "Non Small Cell Lung Cancer",
+      "Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07281924",
+    "title": "Hepzato Kit and Opdualag for Metastatic Melanoma and Liver Metastasis",
+    "conditions": [
+      "Metastatic Melanoma",
+      "Liver Metastases"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07501559",
+    "title": "A Phase Ib/II Clinical Trial to Evaluate the Safety and Efficacy of JL15003 Injection in Patients With Recurrent Glioblastoma (rGBM)",
+    "conditions": [
+      "Recurrent Glioblastoma Multiforme(GBM)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06727162",
+    "title": "The Value of CEUS in Assessing the Response of Cervical Lymph Nodes After NACI for HNSCC",
+    "conditions": [
+      "Head and Neck Squamous Cell Carcinoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05978141",
+    "title": "A Registry for People With T-cell Lymphoma",
+    "conditions": [
+      "T-cell Lymphoma",
+      "NK-Cell Lymphoma",
+      "T-cell Prolymphocytic Leukemia",
+      "T-cell Large Granular Lymphocytic Leukemia",
+      "Chronic Lymphoproliferative Disorder of NK Cells",
+      "Aggressive NK-cell Leukemia",
+      "Systemic Epstein-Barr Virus Positive T-Cell Lymphoproliferative Disease of Childhood (Disorder)",
+      "Systemic Epstein Barr Virus Positive T-Cell Lymphoproliferative Disease of Childhood",
+      "Chronic Active EBV Infection of T-and NK-Cell Type, Systemic Form",
+      "Hydroa Vacciniforme-Like Lymphoproliferative Disorder",
+      "Adult T-cell Leukemia/Lymphoma",
+      "Extranodal NK/T-cell Lymphoma, Nasal Type",
+      "Enteropathy-associated T-cell Lymphoma",
+      "Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma",
+      "Intestinal T-Cell Lymphoma, Not Otherwise Specified",
+      "Indolent T-Cell Lymphoproliferative Disorder of the Gastrointestinal Tract",
+      "Hepatosplenic T-cell Lymphoma",
+      "Subcutaneous Panniculitis-Like T-Cell Lymphoma",
+      "Mycosis Fungoides",
+      "Sezary Syndrome",
+      "Primary Cutaneous Anaplastic Large Cell Lymphoma",
+      "Primary Cutaneous T-cell Lymphoma",
+      "Primary Cutaneous CD8-Positive Aggressive Epidermotropic T-Cell Lymphoma",
+      "Primary Cutaneous Acral CD8-Positive T-Cell Lymphoma",
+      "Peripheral T-Cell Lymphoma, Not Otherwise Specified",
+      "Angioimmunoblastic T-cell Lymphoma",
+      "Follicular T-Cell Lymphoma",
+      "Nodal Peripheral T-Cell Lymphoma With TFH Phenotype",
+      "Anaplastic Large Cell Lymphoma, ALK-Positive",
+      "Anaplastic Large Cell Lymphoma, ALK-negative",
+      "Breast Implant-Associated Anaplastic Large Cell Lymphoma"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04762641",
+    "title": "This is a Study to Evaluate the Safety and Tolerability of ABL503, and to Determine the Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D) of ABL503 in Subjects with Any Progressive Locally Advanced or Metastatic Solid Tumors",
+    "conditions": [
+      "Advanced Solid Tumor"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06498154",
+    "title": "Eliminating Breast Surgery for Breast Cancer Patients With Clinical Complete Response to Neoadjuvant Systemic Therapy",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT05585580",
+    "title": "Second-line Treatment With Serplulimab, Lenvatinib, and Paclitaxel in Advanced Gastric Cancer After Prior Immunotherapy",
+    "conditions": [
+      "Advanced Gastric or Gastroesophageal Junction Adenocarcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "75 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06949046",
+    "title": "Effects of a Nursing-led Communication Using Mobile Health Information in Breast Cancer Patients Undergoing Concurrent Chemotherapy",
+    "conditions": [
+      "Breast Cancer Early Stage Breast Cancer (Stage 1-3)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "FEMALE"
+  },
+  {
+    "nct_id": "NCT00493688",
+    "title": "A Study to Determine Whether Perioperative Energy Dynamics Correlates With Postoperative Outcomes",
+    "conditions": [
+      "Abdominal Cancer",
+      "Pelvic Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05777603",
+    "title": "Study of Aerosolized Antibiotics and Pembrolizumab in Advanced Non-small Cell Lung Cancer",
+    "conditions": [
+      "Advanced Non Small Cell Lung Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "120 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06118086",
+    "title": "Study of REM-422 in Patients With Recurrent, Metastatic, or Unresectable Adenoid Cystic Carcinoma",
+    "conditions": [
+      "Adenoid Cystic Carcinoma",
+      "Metastatic Adenoid Cystic Carcinoma",
+      "Recurrent Adenoid Cystic Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07237269",
+    "title": "Abi/Pred + ADT vs ADT in PSMA-Positive, Conventionally Node-Negative Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "min_age": "30 Years",
+    "max_age": "",
+    "sex": "MALE"
+  },
+  {
+    "nct_id": "NCT06444841",
+    "title": "Paper-Based and Smartphone-Based Memory Supports",
+    "conditions": [
+      "Alzheimer Disease",
+      "Dementia, Mild",
+      "Mild Cognitive Impairment"
+    ],
+    "min_age": "50 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06079554",
+    "title": "Microbiota and Metabolomics of Intestinal Type of Gastric Cancer",
+    "conditions": [
+      "Gastric Cancer"
+    ],
+    "min_age": "18 Years",
+    "max_age": "80 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT05875805",
+    "title": "A Telehealth Advance Care Planning Intervention",
+    "conditions": [
+      "Myeloid Malignancy",
+      "Acute Myeloid Leukemia",
+      "Myelodysplastic Syndromes",
+      "Myelodysplastic/Myeloproliferative Neoplasm",
+      "Myelofibrosis"
+    ],
+    "min_age": "60 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06663956",
+    "title": "A Randomized Controlled Trial of a Web-based Platform for Cancer Pain Management",
+    "conditions": [
+      "Cancer Pain"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06741982",
+    "title": "A Clinical Study on Neoadjuvant Treatment of Resectable Head and Neck Squamous Carcinoma With Immune-targeted Therapy and Lysogenic HSV Virus",
+    "conditions": [
+      "HNSCC",
+      "Lysogenic HSV Virus",
+      "Neoadjuvant Therapy",
+      "Immunotherapy",
+      "Targeted Therapy"
+    ],
+    "min_age": "18 Years",
+    "max_age": "70 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT07362459",
+    "title": "A Study to Evaluate the Safety and Tolerability of SCTB14 as First-Line Therapy in Non-Small Cell Lung Cancer.",
+    "conditions": [
+      "Non-Small Cell Lung Carcinoma (NSCLC)"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT04050280",
+    "title": "CLAG-GO for Patients With Persistent, Relapsed or Refractory AML",
+    "conditions": [
+      "Acute Myeloid Leukemia, Adult",
+      "Acute Myeloid Leukemia Recurrent",
+      "Acute Myeloid Leukemia, Relapsed, Adult"
+    ],
+    "min_age": "18 Years",
+    "max_age": "",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06239727",
+    "title": "Reduced-dose Radiotherapy for Stage III Nasopharyngeal Carcinoma Based on the Treatment Response",
+    "conditions": [
+      "Nasopharyngeal Carcinoma"
+    ],
+    "min_age": "18 Years",
+    "max_age": "65 Years",
+    "sex": "ALL"
+  },
+  {
+    "nct_id": "NCT06330870",
+    "title": "Brain Metastasis Development Mechanism in BCBM Patients",
+    "conditions": [
+      "Breast Cancer",
+      "Brain Metastasis"
+    ],
+    "min_age": "",
+    "max_age": "",
+    "sex": "FEMALE"
+  }
+]

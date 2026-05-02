@@ -1,0 +1,7 @@
+2026-05-02 23:35:09 | build_index | INFO | Loaded 500 trials
+2026-05-02 23:44:07 | build_index | INFO | Loaded 500 trials
+2026-05-03 00:05:58 | build_index | INFO | Loaded 500 trials
+2026-05-03 00:12:40 | build_index | INFO | Embeddings shape: (500, 768)
+2026-05-03 00:12:40 | build_index | INFO | Saved embeddings to data/processed/trial_embeddings.npy
+2026-05-03 00:12:40 | build_index | INFO | FAISS index built with 500 vectors, saved to data/processed/faiss_index.bin
+2026-05-03 00:12:40 | build_index | INFO | Saved metadata to data/processed/trial_metadata.json
