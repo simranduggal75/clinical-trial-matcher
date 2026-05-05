@@ -84,3 +84,24 @@
 2026-05-03 00:18:35 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
 2026-05-03 00:18:40 | embedder | INFO | Model loaded on cpu
 2026-05-03 00:18:40 | embedder | INFO | Embedded batch 1/1
+2026-05-04 21:25:55 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-04 21:26:05 | embedder | INFO | Model loaded on cpu
+2026-05-04 21:28:39 | embedder | INFO | Embedded batch 1/1
+2026-05-04 21:34:48 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-04 21:34:55 | embedder | INFO | Model loaded on cpu
+2026-05-04 21:35:51 | embedder | INFO | Embedded batch 1/1
+2026-05-04 21:38:29 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-04 21:38:36 | embedder | INFO | Model loaded on cpu
+2026-05-04 21:38:36 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-04 21:38:40 | embedder | INFO | Model loaded on cpu
+2026-05-04 21:38:40 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-04 21:38:44 | embedder | INFO | Model loaded on cpu
+2026-05-04 21:38:44 | embedder | INFO | Embedded batch 1/1
+2026-05-04 21:38:44 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-04 21:38:47 | embedder | INFO | Model loaded on cpu
+2026-05-05 21:42:42 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-05 21:42:52 | embedder | INFO | Model loaded on cpu
+2026-05-05 21:43:55 | embedder | INFO | Embedded batch 1/1
+2026-05-05 21:50:46 | embedder | INFO | Loading model: emilyalsentzer/Bio_ClinicalBERT
+2026-05-05 21:50:55 | embedder | INFO | Model loaded on cpu
+2026-05-05 21:50:59 | embedder | INFO | Embedded batch 1/1
