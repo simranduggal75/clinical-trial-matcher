@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.git
+.gitignore
+data/raw/
+tools/
+output/
+*.jar
+notebooks/
+tests/
+*.npy
+logs/
