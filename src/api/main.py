@@ -4,6 +4,8 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 from src.matching.search import TrialSearcher
 from src.utils.logger import get_logger
+from src.api.monitoring import router as monitoring_router, track_request, track_match_results, ACTIVE_REQUESTS
+import time
 
 logger = get_logger("api")
 
@@ -24,6 +26,23 @@ app = FastAPI(
     version="1.0.0",
     lifespan=lifespan
 )
+
+app.include_router(monitoring_router)
+
+@app.middleware("http")
+async def monitor_requests(request, call_next):
+    ACTIVE_REQUESTS.inc()
+    start = time.time()
+    response = await call_next(request)
+    latency = time.time() - start
+    track_request(
+        endpoint=request.url.path,
+        method=request.method,
+        status=response.status_code,
+        latency=latency
+    )
+    ACTIVE_REQUESTS.dec()
+    return response
 
 class PatientInput(BaseModel):
     age:         int            = Field(..., ge=0, le=120)
@@ -79,6 +98,9 @@ def match_trials(patient: PatientInput, top_k: int = 10):
             )
             for r in results
         ]
+        
+        track_match_results([t.dict() for t in trials])
+        
         return MatchResponse(
             patient=       patient,
             total_matches= len(trials),
