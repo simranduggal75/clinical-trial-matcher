@@ -183,4 +183,3 @@ python -m pytest tests/ -v
 ## License
 
 MIT
-```
