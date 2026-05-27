@@ -1,0 +1,1 @@
+2026-05-25 18:36:59 | mlflow_evaluator | INFO | MLflow eval complete: {'MAP': 1.0, 'MRR': 1.0, 'Recall@10': 1.0, 'Precision@10': 0.3}
