@@ -84,4 +84,8 @@ src/models/ner_model/
 
 setup.py
 
+mlruns/
+mlflow.db
+*.db
+
 
