@@ -14,6 +14,12 @@ An AI system that automatically matches patient medical records to relevant clin
 
 80% of clinical trials fail to meet enrollment timelines because matching patients to trials is done manually by doctors. This system automates that process.
 
+
+## 🚀 Live Demo
+🔗 [https://huggingface.co/spaces/simranduggal75/clinical-trial-matcher](https://huggingface.co/spaces/simranduggal75/clinical-trial-matcher)
+
+> **Note:** Deployed on HuggingFace Spaces (free tier). Uses lightweight rule-based matching for the demo. Full Bio_ClinicalBERT + FAISS pipeline available locally — see Quick Start below.
+
 ## Architecture
 
 ```
