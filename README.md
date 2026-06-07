@@ -148,10 +148,11 @@ curl -X POST "http://localhost:8000/match?top_k=5" \
 
 | Metric | Score |
 |--------|-------|
-| MAP | logged via MLflow |
-| MRR | logged via MLflow |
-| Recall@10 | logged via MLflow |
-| Precision@10 | logged via MLflow |
+| MAP    |  1.0   |
+| MRR    | 1.0 |
+| Recall@10 | 1.0 |
+| Precision@10 | 0.3 |
+
 
 Run evaluation:
 ```bash
@@ -185,6 +186,12 @@ clinical-trial-matcher/
 ```bash
 python -m pytest tests/ -v
 ```
+
+### Screenshots
+
+![Streamlit UI](screenshots/streamlit_ui.png)
+![Live Demo](screenshots/LIVE_DEMO.png)
+![API Docs](screenshots/swagger_ui.PNG)
 
 ## License
 
