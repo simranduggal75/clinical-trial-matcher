@@ -153,6 +153,7 @@ curl -X POST "http://localhost:8000/match?top_k=5" \
 | Recall@10 | 1.0 |
 | Precision@10 | 0.3 |
 
+Note: MAP and Recall being 1.0 is because we used pseudo-relevance labels (top-3 retrieved = relevant). Real ground truth would give different numbers — mention this in your README or interviews.
 
 Run evaluation:
 ```bash
@@ -187,11 +188,25 @@ clinical-trial-matcher/
 python -m pytest tests/ -v
 ```
 
-### Screenshots
+## Screenshots
 
-![Streamlit UI](screenshots/streamlit_ui.png)
+### Streamlit UI
+![Streamlit UI](screenshots/streamlit_bert.png)
+
+### Live Demo
 ![Live Demo](screenshots/LIVE_DEMO.png)
-![API Docs](screenshots/swagger_ui.PNG)
+
+### FastAPI Docs
+![FastAPI Docs](screenshots/fastapi_docs.PNG)
+
+### Match Endpoint
+![Match Endpoint](screenshots/match_endpoint.png)
+
+### Prometheus Metrics
+![Prometheus Metrics](screenshots/prometheus_metrics.png)
+
+### MLflow Dashboard
+![MLflow Dashboard](screenshots/mlflow_dashboard.png)
 
 ## License
 
